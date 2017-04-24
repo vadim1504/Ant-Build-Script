@@ -1,0 +1,51 @@
+<project name="ant-build-script" basedir="." default="main">
+
+    <property name="in.dir" value="in"/>
+    <property name="out.dir" value="out"/>
+    <property name="temp.dir" value="temp"/>
+
+    <target name="init">
+        <mkdir dir="in" />
+        <mkdir dir="out" />
+        <mkdir dir="temp" />
+        <copy todir="${in.dir}">
+            <fileset dir="resources"/>
+        </copy>
+    </target>
+
+    <target name="clean">
+        <delete>
+            <fileset dir="${temp.dir}"/>
+        </delete>
+    </target>
+
+    <target name="build" depends="clean,copy,unzip,zip"/>
+
+    <target name="main" depends="init,build"/>
+
+    <target name="copy">
+        <copy todir="${temp.dir}">
+            <fileset dir="${in.dir}" includes="**/*.xml,**/*.zip,**/*.html,**/*.xhtml"/>
+        </copy>
+    </target>
+
+    <target name="unzip">
+        <unzip src="${temp.dir}/zipFile.zip" dest="${temp.dir}" >
+            <patternset>
+                <include name="**/*.png"/>
+                <include name="**/*.xml"/>
+                <include name="**/*.html"/>
+                <include name="**/*.xhtml"/>
+            </patternset>
+            <mapper type="flatten"/>
+        </unzip>
+        <delete file="${temp.dir}/zipFile.zip"/>
+    </target>
+
+
+    <target name="zip">
+        <zip destfile="${temp.dir}/out.zip" basedir="${temp.dir}" includes="**/*.xml,**/*.html,**/*.xhtml"/>
+        <copy file="${temp.dir}/out.zip" todir="${out.dir}"/>
+    </target>
+
+</project>
