@@ -1,0 +1,2103 @@
+20:25:33,123 INFO - Build started.
+20:25:33,224 INFO - Task "property" started.
+20:25:33,478 INFO - Task "property" finished.
+20:25:33,478 INFO - Task "property" started.
+20:25:33,478 INFO - Task "property" finished.
+20:25:33,478 INFO - Task "property" started.
+20:25:33,478 INFO - Task "property" finished.
+20:25:33,478 INFO - Task "property" started.
+20:25:33,478 INFO - Task "property" finished.
+20:25:33,493 INFO - Target "init" started.
+20:25:33,493 INFO - Task "record" started.
+20:25:33,493 INFO - Task "record" finished.
+20:25:33,493 INFO - Task "mkdir" started.
+20:25:33,493 INFO - Task "mkdir" finished.
+20:25:33,493 INFO - Task "mkdir" started.
+20:25:33,493 INFO - Task "mkdir" finished.
+20:25:33,493 INFO - Task "mkdir" started.
+20:25:33,493 INFO - Task "mkdir" finished.
+20:25:33,493 INFO - Task "copy" started.
+20:25:33,575 INFO - Task "copy" finished.
+20:25:33,575 INFO - Task "record" started.
+20:25:33,575 INFO - Task "record" finished.
+20:25:33,575 INFO - Target "init" finished.
+20:25:33,576 INFO - Target "clean" started.
+20:25:33,577 INFO - Task "delete" started.
+20:25:33,578 INFO - Task "delete" finished.
+20:25:33,578 INFO - Target "clean" finished.
+20:25:33,594 INFO - Target "copy" started.
+20:25:33,594 INFO - Task "copy" started.
+20:25:33,594 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:25:33,609 INFO - Task "copy" finished.
+20:25:33,609 INFO - Target "copy" finished.
+20:25:33,609 INFO - Target "unzip" started.
+20:25:33,609 INFO - Task "unzip" started.
+20:25:33,609 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:25:33,625 INFO - Task "unzip" finished.
+20:25:33,625 INFO - Task "delete" started.
+20:25:33,625 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:25:33,625 INFO - Task "delete" finished.
+20:25:33,625 INFO - Target "unzip" finished.
+20:25:33,625 INFO - Target "zip" started.
+20:25:33,625 INFO - Task "zip" started.
+20:25:33,640 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:25:33,656 INFO - Task "zip" finished.
+20:25:33,656 INFO - Task "copy" started.
+20:25:33,656 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:25:33,656 INFO - Task "copy" finished.
+20:25:33,656 INFO - Target "zip" finished.
+20:25:33,656 INFO - Target "build" started.
+20:25:33,656 INFO - Target "build" finished.
+20:25:33,656 INFO - Target "main" started.
+20:25:33,656 INFO - Target "main" finished.
+20:25:33,694 INFO - Build finished.
+20:26:41,078 INFO - Build started.
+20:26:41,201 INFO - Task "property" started.
+20:26:41,432 INFO - Task "property" finished.
+20:26:41,432 INFO - Task "property" started.
+20:26:41,432 INFO - Task "property" finished.
+20:26:41,432 INFO - Task "property" started.
+20:26:41,432 INFO - Task "property" finished.
+20:26:41,432 INFO - Task "property" started.
+20:26:41,432 INFO - Task "property" finished.
+20:26:41,448 INFO - Target "init" started.
+20:26:41,448 INFO - Task "record" started.
+20:26:41,448 INFO - Task "record" finished.
+20:26:41,448 INFO - Task "mkdir" started.
+20:26:41,448 INFO - Task "mkdir" finished.
+20:26:41,448 INFO - Task "mkdir" started.
+20:26:41,448 INFO - Task "mkdir" finished.
+20:26:41,448 INFO - Task "mkdir" started.
+20:26:41,448 INFO - Task "mkdir" finished.
+20:26:41,448 INFO - Task "copy" started.
+20:26:41,533 INFO - Task "copy" finished.
+20:26:41,533 INFO - Task "record" started.
+20:26:41,533 INFO - Task "record" finished.
+20:26:41,533 INFO - Target "init" finished.
+20:26:41,533 INFO - Target "clean" started.
+20:26:41,533 INFO - Task "delete" started.
+20:26:41,564 INFO - Task "delete" finished.
+20:26:41,564 INFO - Target "clean" finished.
+20:26:41,564 INFO - Target "copy" started.
+20:26:41,564 INFO - Task "copy" started.
+20:26:41,564 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:26:41,580 INFO - Task "copy" finished.
+20:26:41,580 INFO - Target "copy" finished.
+20:26:41,580 INFO - Target "unzip" started.
+20:26:41,580 INFO - Task "unzip" started.
+20:26:41,596 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:26:41,602 INFO - Task "unzip" finished.
+20:26:41,602 INFO - Task "delete" started.
+20:26:41,602 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:26:41,602 INFO - Task "delete" finished.
+20:26:41,602 INFO - Target "unzip" finished.
+20:26:41,602 INFO - Target "zip" started.
+20:26:41,602 INFO - Task "zip" started.
+20:26:41,633 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:26:41,633 INFO - Task "zip" finished.
+20:26:41,633 INFO - Task "copy" started.
+20:26:41,633 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:26:41,633 INFO - Task "copy" finished.
+20:26:41,633 INFO - Target "zip" finished.
+20:26:41,649 INFO - Target "build" started.
+20:26:41,649 INFO - Target "build" finished.
+20:26:41,649 INFO - Target "main" started.
+20:26:41,649 INFO - Target "main" finished.
+20:26:41,664 INFO - Build finished.
+20:27:39,424 INFO - Build started.
+20:27:39,525 INFO - Task "property" started.
+20:27:39,844 INFO - Task "property" finished.
+20:27:39,844 INFO - Task "property" started.
+20:27:39,844 INFO - Task "property" finished.
+20:27:39,844 INFO - Task "property" started.
+20:27:39,844 INFO - Task "property" finished.
+20:27:39,844 INFO - Task "property" started.
+20:27:39,844 INFO - Task "property" finished.
+20:27:39,844 INFO - Target "init" started.
+20:27:39,844 INFO - Task "record" started.
+20:27:39,844 INFO - Task "record" finished.
+20:27:39,844 INFO - Task "mkdir" started.
+20:27:39,844 INFO - Task "mkdir" finished.
+20:27:39,844 INFO - Task "mkdir" started.
+20:27:39,844 INFO - Task "mkdir" finished.
+20:27:39,844 INFO - Task "mkdir" started.
+20:27:39,844 INFO - Task "mkdir" finished.
+20:27:39,844 INFO - Task "copy" started.
+20:27:39,922 INFO - Task "copy" finished.
+20:27:39,922 INFO - Task "record" started.
+20:27:39,922 INFO - Task "record" finished.
+20:27:39,922 INFO - Target "init" finished.
+20:27:39,922 INFO - Target "clean" started.
+20:27:39,922 INFO - Task "delete" started.
+20:27:39,943 INFO - Task "delete" finished.
+20:27:39,943 INFO - Target "clean" finished.
+20:27:39,944 INFO - Target "copy" started.
+20:27:39,944 INFO - Task "copy" started.
+20:27:39,944 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:27:39,960 INFO - Task "copy" finished.
+20:27:39,960 INFO - Target "copy" finished.
+20:27:39,960 INFO - Target "unzip" started.
+20:27:39,960 INFO - Task "unzip" started.
+20:27:39,960 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:27:39,976 INFO - Task "unzip" finished.
+20:27:39,976 INFO - Task "delete" started.
+20:27:39,976 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:27:39,976 INFO - Task "delete" finished.
+20:27:39,976 INFO - Target "unzip" finished.
+20:27:39,976 INFO - Target "zip" started.
+20:27:39,976 INFO - Task "zip" started.
+20:27:39,991 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:27:40,007 INFO - Task "zip" finished.
+20:27:40,007 INFO - Task "copy" started.
+20:27:40,007 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:27:40,007 INFO - Task "copy" finished.
+20:27:40,007 INFO - Target "zip" finished.
+20:27:40,007 INFO - Target "build" started.
+20:27:40,007 INFO - Target "build" finished.
+20:27:40,007 INFO - Target "main" started.
+20:27:40,007 INFO - Target "main" finished.
+20:27:40,040 INFO - Build finished.
+20:28:50,016 INFO - Build started.
+20:28:50,121 INFO - Task "property" started.
+20:28:50,400 INFO - Task "property" finished.
+20:28:50,400 INFO - Task "property" started.
+20:28:50,400 INFO - Task "property" finished.
+20:28:50,400 INFO - Task "property" started.
+20:28:50,401 INFO - Task "property" finished.
+20:28:50,401 INFO - Task "property" started.
+20:28:50,402 INFO - Task "property" finished.
+20:28:50,409 INFO - Target "init" started.
+20:28:50,409 INFO - Task "record" started.
+20:28:50,418 INFO - Task "record" finished.
+20:28:50,418 INFO - Task "mkdir" started.
+20:28:50,420 INFO - Task "mkdir" finished.
+20:28:50,420 INFO - Task "mkdir" started.
+20:28:50,420 INFO - Task "mkdir" finished.
+20:28:50,420 INFO - Task "mkdir" started.
+20:28:50,421 INFO - Task "mkdir" finished.
+20:28:50,421 INFO - Task "copy" started.
+20:28:50,502 INFO - Task "copy" finished.
+20:28:50,502 INFO - Task "record" started.
+20:28:50,502 INFO - Task "record" finished.
+20:28:50,502 INFO - Target "init" finished.
+20:28:50,503 INFO - Target "clean" started.
+20:28:50,503 INFO - Task "delete" started.
+20:28:50,525 INFO - Task "delete" finished.
+20:28:50,525 INFO - Target "clean" finished.
+20:28:50,526 INFO - Target "copy" started.
+20:28:50,526 INFO - Task "copy" started.
+20:28:50,535 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:28:50,552 INFO - Task "copy" finished.
+20:28:50,552 INFO - Target "copy" finished.
+20:28:50,553 INFO - Target "unzip" started.
+20:28:50,553 INFO - Task "unzip" started.
+20:28:50,561 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:28:50,574 INFO - Task "unzip" finished.
+20:28:50,574 INFO - Task "delete" started.
+20:28:50,575 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:28:50,576 INFO - Task "delete" finished.
+20:28:50,576 INFO - Target "unzip" finished.
+20:28:50,580 INFO - Target "zip" started.
+20:28:50,581 INFO - Task "zip" started.
+20:28:50,607 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:28:50,617 INFO - Task "zip" finished.
+20:28:50,617 INFO - Task "copy" started.
+20:28:50,618 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:28:50,621 INFO - Task "copy" finished.
+20:28:50,621 INFO - Target "zip" finished.
+20:28:50,622 INFO - Target "build" started.
+20:28:50,622 INFO - Target "build" finished.
+20:28:50,623 INFO - Target "main" started.
+20:28:50,623 INFO - Target "main" finished.
+20:28:50,652 INFO - Build finished.
+20:29:08,741 INFO - Build started.
+20:29:08,844 INFO - Task "property" started.
+20:29:09,104 INFO - Task "property" finished.
+20:29:09,104 INFO - Task "property" started.
+20:29:09,104 INFO - Task "property" finished.
+20:29:09,104 INFO - Task "property" started.
+20:29:09,104 INFO - Task "property" finished.
+20:29:09,104 INFO - Task "property" started.
+20:29:09,106 INFO - Task "property" finished.
+20:29:09,109 INFO - Target "init" started.
+20:29:09,110 INFO - Task "record" started.
+20:29:09,115 INFO - Task "record" finished.
+20:29:09,116 INFO - Task "mkdir" started.
+20:29:09,119 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\in
+20:29:09,119 INFO - Task "mkdir" finished.
+20:29:09,119 INFO - Task "mkdir" started.
+20:29:09,120 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\out
+20:29:09,120 INFO - Task "mkdir" finished.
+20:29:09,120 INFO - Task "mkdir" started.
+20:29:09,121 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\temp
+20:29:09,121 INFO - Task "mkdir" finished.
+20:29:09,121 INFO - Task "copy" started.
+20:29:09,208 INFO - Copying 5 files to F:\projectGit\Ant-Build-Script\ant\in
+20:29:09,224 INFO - Task "copy" finished.
+20:29:09,224 INFO - Task "record" started.
+20:29:09,229 INFO - Task "record" finished.
+20:29:09,229 INFO - Target "init" finished.
+20:29:09,230 INFO - Target "clean" started.
+20:29:09,230 INFO - Task "delete" started.
+20:29:09,243 INFO - Task "delete" finished.
+20:29:09,243 INFO - Target "clean" finished.
+20:29:09,243 INFO - Target "copy" started.
+20:29:09,243 INFO - Task "copy" started.
+20:29:09,257 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:29:09,264 INFO - Task "copy" finished.
+20:29:09,264 INFO - Target "copy" finished.
+20:29:09,265 INFO - Target "unzip" started.
+20:29:09,265 INFO - Task "unzip" started.
+20:29:09,276 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:29:09,289 INFO - Task "unzip" finished.
+20:29:09,289 INFO - Task "delete" started.
+20:29:09,290 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:29:09,291 INFO - Task "delete" finished.
+20:29:09,291 INFO - Target "unzip" finished.
+20:29:09,291 INFO - Target "zip" started.
+20:29:09,291 INFO - Task "zip" started.
+20:29:09,328 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:29:09,338 INFO - Task "zip" finished.
+20:29:09,338 INFO - Task "copy" started.
+20:29:09,355 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:29:09,359 INFO - Task "copy" finished.
+20:29:09,359 INFO - Target "zip" finished.
+20:29:09,359 INFO - Target "build" started.
+20:29:09,360 INFO - Target "build" finished.
+20:29:09,360 INFO - Target "main" started.
+20:29:09,360 INFO - Target "main" finished.
+20:29:09,378 INFO - Build finished.
+20:30:17,242 INFO - Build started.
+20:30:17,359 INFO - Task "property" started.
+20:30:17,596 INFO - Task "property" finished.
+20:30:17,596 INFO - Task "property" started.
+20:30:17,596 INFO - Task "property" finished.
+20:30:17,596 INFO - Task "property" started.
+20:30:17,596 INFO - Task "property" finished.
+20:30:17,596 INFO - Task "property" started.
+20:30:17,596 INFO - Task "property" finished.
+20:30:17,612 INFO - Target "init" started.
+20:30:17,612 INFO - Task "record" started.
+20:30:17,627 INFO - Task "record" finished.
+20:30:17,627 INFO - Task "mkdir" started.
+20:30:17,627 INFO - Task "mkdir" finished.
+20:30:17,627 INFO - Task "mkdir" started.
+20:30:17,627 INFO - Task "mkdir" finished.
+20:30:17,627 INFO - Task "mkdir" started.
+20:30:17,627 INFO - Task "mkdir" finished.
+20:30:17,627 INFO - Task "copy" started.
+20:30:17,712 INFO - Task "copy" finished.
+20:30:17,712 INFO - Task "record" started.
+20:30:17,712 INFO - Task "record" finished.
+20:30:17,712 INFO - Target "init" finished.
+20:30:17,712 INFO - Target "clean" started.
+20:30:17,712 INFO - Task "delete" started.
+20:30:17,743 INFO - Task "delete" finished.
+20:30:17,743 INFO - Target "clean" finished.
+20:30:17,743 INFO - Target "copy" started.
+20:30:17,743 INFO - Task "copy" started.
+20:30:17,759 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:30:17,765 INFO - Task "copy" finished.
+20:30:17,765 INFO - Target "copy" finished.
+20:30:17,765 INFO - Target "unzip" started.
+20:30:17,765 INFO - Task "unzip" started.
+20:30:17,765 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:30:17,781 INFO - Task "unzip" finished.
+20:30:17,781 INFO - Task "delete" started.
+20:30:17,781 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:30:17,781 INFO - Task "delete" finished.
+20:30:17,781 INFO - Target "unzip" finished.
+20:30:17,781 INFO - Target "zip" started.
+20:30:17,781 INFO - Task "zip" started.
+20:30:17,812 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:30:17,812 INFO - Task "zip" finished.
+20:30:17,812 INFO - Task "copy" started.
+20:30:17,828 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:30:17,828 INFO - Task "copy" finished.
+20:30:17,828 INFO - Target "zip" finished.
+20:30:17,828 INFO - Target "build" started.
+20:30:17,828 INFO - Target "build" finished.
+20:30:17,828 INFO - Target "main" started.
+20:30:17,828 INFO - Target "main" finished.
+20:30:17,866 INFO - Build finished.
+20:38:23,180 INFO - Build started.
+20:38:23,311 INFO - Task "property" started.
+20:38:23,580 INFO - Task "property" finished.
+20:38:23,580 INFO - Task "property" started.
+20:38:23,580 INFO - Task "property" finished.
+20:38:23,580 INFO - Task "property" started.
+20:38:23,580 INFO - Task "property" finished.
+20:38:23,580 INFO - Task "property" started.
+20:38:23,580 INFO - Task "property" finished.
+20:38:23,580 INFO - Task "tstamp" started.
+20:38:23,650 INFO - Task "tstamp" finished.
+20:38:23,665 INFO - Target "init" started.
+20:38:23,665 INFO - Task "record" started.
+20:38:23,665 INFO - Task "record" finished.
+20:38:23,665 INFO - Task "echo" started.
+20:38:23,665 WARN - 25-April-2017
+20:38:23,681 INFO - Task "echo" finished.
+20:38:23,681 INFO - Task "mkdir" started.
+20:38:23,681 INFO - Task "mkdir" finished.
+20:38:23,681 INFO - Task "mkdir" started.
+20:38:23,681 INFO - Task "mkdir" finished.
+20:38:23,681 INFO - Task "mkdir" started.
+20:38:23,681 INFO - Task "mkdir" finished.
+20:38:23,681 INFO - Task "copy" started.
+20:38:23,747 INFO - Task "copy" finished.
+20:38:23,747 INFO - Task "record" started.
+20:38:23,750 INFO - Task "record" finished.
+20:38:23,750 INFO - Target "init" finished.
+20:38:23,750 INFO - Target "clean" started.
+20:38:23,750 INFO - Task "delete" started.
+20:38:23,765 INFO - Task "delete" finished.
+20:38:23,765 INFO - Target "clean" finished.
+20:38:23,765 INFO - Target "copy" started.
+20:38:23,765 INFO - Task "copy" started.
+20:38:23,765 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:38:23,781 INFO - Task "copy" finished.
+20:38:23,781 INFO - Target "copy" finished.
+20:38:23,781 INFO - Target "unzip" started.
+20:38:23,781 INFO - Task "unzip" started.
+20:38:23,797 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:38:23,797 INFO - Task "unzip" finished.
+20:38:23,797 INFO - Task "delete" started.
+20:38:23,797 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:38:23,797 INFO - Task "delete" finished.
+20:38:23,797 INFO - Target "unzip" finished.
+20:38:23,797 INFO - Target "zip" started.
+20:38:23,797 INFO - Task "zip" started.
+20:38:23,828 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:38:23,850 INFO - Task "zip" finished.
+20:38:23,850 INFO - Task "copy" started.
+20:38:23,850 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:38:23,850 INFO - Task "copy" finished.
+20:38:23,850 INFO - Target "zip" finished.
+20:38:23,850 INFO - Target "build" started.
+20:38:23,850 INFO - Target "build" finished.
+20:38:23,850 INFO - Target "main" started.
+20:38:23,850 INFO - Target "main" finished.
+20:38:23,850 INFO - Build finished.
+20:38:42,661 INFO - Build started.
+20:38:42,762 INFO - Task "property" started.
+20:38:43,040 INFO - Task "property" finished.
+20:38:43,040 INFO - Task "property" started.
+20:38:43,057 INFO - Task "property" finished.
+20:38:43,057 INFO - Task "property" started.
+20:38:43,057 INFO - Task "property" finished.
+20:38:43,057 INFO - Task "property" started.
+20:38:43,058 INFO - Task "property" finished.
+20:38:43,058 INFO - Task "tstamp" started.
+20:38:43,062 INFO - Task "tstamp" finished.
+20:38:43,078 INFO - Target "init" started.
+20:38:43,078 INFO - Task "record" started.
+20:38:43,078 INFO - Task "record" finished.
+20:38:43,078 INFO - Task "echo" started.
+20:38:43,094 WARN - 04/25/2017 08:38:43 PM
+20:38:43,094 INFO - Task "echo" finished.
+20:38:43,094 INFO - Task "mkdir" started.
+20:38:43,094 INFO - Task "mkdir" finished.
+20:38:43,094 INFO - Task "mkdir" started.
+20:38:43,094 INFO - Task "mkdir" finished.
+20:38:43,094 INFO - Task "mkdir" started.
+20:38:43,094 INFO - Task "mkdir" finished.
+20:38:43,094 INFO - Task "copy" started.
+20:38:43,163 INFO - Task "copy" finished.
+20:38:43,163 INFO - Task "record" started.
+20:38:43,178 INFO - Task "record" finished.
+20:38:43,178 INFO - Target "init" finished.
+20:38:43,178 INFO - Target "clean" started.
+20:38:43,178 INFO - Task "delete" started.
+20:38:43,210 INFO - Task "delete" finished.
+20:38:43,210 INFO - Target "clean" finished.
+20:38:43,210 INFO - Target "copy" started.
+20:38:43,210 INFO - Task "copy" started.
+20:38:43,225 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:38:43,241 INFO - Task "copy" finished.
+20:38:43,241 INFO - Target "copy" finished.
+20:38:43,241 INFO - Target "unzip" started.
+20:38:43,241 INFO - Task "unzip" started.
+20:38:43,261 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:38:43,263 INFO - Task "unzip" finished.
+20:38:43,263 INFO - Task "delete" started.
+20:38:43,263 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:38:43,263 INFO - Task "delete" finished.
+20:38:43,263 INFO - Target "unzip" finished.
+20:38:43,279 INFO - Target "zip" started.
+20:38:43,279 INFO - Task "zip" started.
+20:38:43,294 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:38:43,310 INFO - Task "zip" finished.
+20:38:43,310 INFO - Task "copy" started.
+20:38:43,310 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:38:43,310 INFO - Task "copy" finished.
+20:38:43,310 INFO - Target "zip" finished.
+20:38:43,310 INFO - Target "build" started.
+20:38:43,310 INFO - Target "build" finished.
+20:38:43,310 INFO - Target "main" started.
+20:38:43,310 INFO - Target "main" finished.
+20:38:43,325 INFO - Build finished.
+20:41:01,351 INFO - Build started.
+20:41:01,481 INFO - Task "property" started.
+20:41:01,766 INFO - Task "property" finished.
+20:41:01,766 INFO - Task "property" started.
+20:41:01,766 INFO - Task "property" finished.
+20:41:01,766 INFO - Task "property" started.
+20:41:01,766 INFO - Task "property" finished.
+20:41:01,766 INFO - Task "property" started.
+20:41:01,766 INFO - Task "property" finished.
+20:41:01,766 INFO - Task "tstamp" started.
+20:41:01,781 INFO - Task "tstamp" finished.
+20:41:01,781 INFO - Target "init" started.
+20:41:01,781 INFO - Task "echo" started.
+20:41:01,797 WARN - init target start 04/25/2017 08:41:01 PM
+20:41:01,797 INFO - Task "echo" finished.
+20:41:01,797 INFO - Task "mkdir" started.
+20:41:01,814 INFO - Task "mkdir" finished.
+20:41:01,815 INFO - Task "mkdir" started.
+20:41:01,815 INFO - Task "mkdir" finished.
+20:41:01,815 INFO - Task "mkdir" started.
+20:41:01,815 INFO - Task "mkdir" finished.
+20:41:01,815 INFO - Task "copy" started.
+20:41:01,866 INFO - Task "copy" finished.
+20:41:01,866 INFO - Task "echo" started.
+20:41:01,866 WARN - init target stop 04/25/2017 08:41:01 PM
+20:41:01,866 INFO - Task "echo" finished.
+20:41:01,866 INFO - Target "init" finished.
+20:41:01,866 INFO - Target "clean" started.
+20:41:01,866 INFO - Task "delete" started.
+20:41:01,897 INFO - Task "delete" finished.
+20:41:01,897 INFO - Target "clean" finished.
+20:41:01,897 INFO - Target "copy" started.
+20:41:01,897 INFO - Task "copy" started.
+20:41:01,897 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:41:01,919 INFO - Task "copy" finished.
+20:41:01,919 INFO - Target "copy" finished.
+20:41:01,919 INFO - Target "unzip" started.
+20:41:01,919 INFO - Task "unzip" started.
+20:41:01,919 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:41:01,935 INFO - Task "unzip" finished.
+20:41:01,935 INFO - Task "delete" started.
+20:41:01,935 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:41:01,935 INFO - Task "delete" finished.
+20:41:01,935 INFO - Target "unzip" finished.
+20:41:01,935 INFO - Target "zip" started.
+20:41:01,935 INFO - Task "zip" started.
+20:41:01,982 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:41:01,982 INFO - Task "zip" finished.
+20:41:01,982 INFO - Task "copy" started.
+20:41:01,982 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:41:01,998 INFO - Task "copy" finished.
+20:41:01,998 INFO - Target "zip" finished.
+20:41:01,998 INFO - Target "build" started.
+20:41:01,998 INFO - Target "build" finished.
+20:41:01,998 INFO - Target "main" started.
+20:41:01,998 INFO - Target "main" finished.
+20:41:01,998 INFO - Build finished.
+20:41:15,229 INFO - Build started.
+20:41:15,314 INFO - Task "property" started.
+20:41:15,599 INFO - Task "property" finished.
+20:41:15,599 INFO - Task "property" started.
+20:41:15,599 INFO - Task "property" finished.
+20:41:15,599 INFO - Task "property" started.
+20:41:15,599 INFO - Task "property" finished.
+20:41:15,599 INFO - Task "property" started.
+20:41:15,599 INFO - Task "property" finished.
+20:41:15,599 INFO - Task "tstamp" started.
+20:41:15,615 INFO - Task "tstamp" finished.
+20:41:15,615 INFO - Target "init" started.
+20:41:15,615 INFO - Task "echo" started.
+20:41:15,631 WARN - init target start 04/25/2017 08:41:15 PM
+20:41:15,631 INFO - Task "echo" finished.
+20:41:15,631 INFO - Task "mkdir" started.
+20:41:15,631 INFO - Task "mkdir" finished.
+20:41:15,631 INFO - Task "mkdir" started.
+20:41:15,631 INFO - Task "mkdir" finished.
+20:41:15,631 INFO - Task "mkdir" started.
+20:41:15,631 INFO - Task "mkdir" finished.
+20:41:15,631 INFO - Task "copy" started.
+20:41:15,715 INFO - Task "copy" finished.
+20:41:15,715 INFO - Task "echo" started.
+20:41:15,715 WARN - init target stop 04/25/2017 08:41:15 PM
+20:41:15,715 INFO - Task "echo" finished.
+20:41:15,715 INFO - Target "init" finished.
+20:41:15,715 INFO - Target "clean" started.
+20:41:15,715 INFO - Task "delete" started.
+20:41:15,730 INFO - Task "delete" finished.
+20:41:15,730 INFO - Target "clean" finished.
+20:41:15,730 INFO - Target "copy" started.
+20:41:15,730 INFO - Task "copy" started.
+20:41:15,730 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:41:15,746 INFO - Task "copy" finished.
+20:41:15,746 INFO - Target "copy" finished.
+20:41:15,746 INFO - Target "unzip" started.
+20:41:15,746 INFO - Task "unzip" started.
+20:41:15,769 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:41:15,769 INFO - Task "unzip" finished.
+20:41:15,769 INFO - Task "delete" started.
+20:41:15,769 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:41:15,769 INFO - Task "delete" finished.
+20:41:15,769 INFO - Target "unzip" finished.
+20:41:15,769 INFO - Target "zip" started.
+20:41:15,769 INFO - Task "zip" started.
+20:41:15,815 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:41:15,831 INFO - Task "zip" finished.
+20:41:15,831 INFO - Task "copy" started.
+20:41:15,831 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:41:15,831 INFO - Task "copy" finished.
+20:41:15,831 INFO - Target "zip" finished.
+20:41:15,831 INFO - Target "build" started.
+20:41:15,831 INFO - Target "build" finished.
+20:41:15,831 INFO - Target "main" started.
+20:41:15,831 INFO - Target "main" finished.
+20:41:15,831 INFO - Build finished.
+20:41:59,917 INFO - Build started.
+20:42:00,055 INFO - Task "property" started.
+20:42:00,334 INFO - Task "property" finished.
+20:42:00,334 INFO - Task "property" started.
+20:42:00,334 INFO - Task "property" finished.
+20:42:00,334 INFO - Task "property" started.
+20:42:00,334 INFO - Task "property" finished.
+20:42:00,334 INFO - Task "property" started.
+20:42:00,334 INFO - Task "property" finished.
+20:42:00,334 INFO - Task "tstamp" started.
+20:42:00,356 INFO - Task "tstamp" finished.
+20:42:00,356 INFO - Target "init" started.
+20:42:00,356 INFO - Task "record" started.
+20:42:00,356 INFO - Task "record" finished.
+20:42:00,356 INFO - Task "echo" started.
+20:42:00,372 WARN - init target start 04/25/2017 08:42:00 PM
+20:42:00,372 INFO - Task "echo" finished.
+20:42:00,372 INFO - Task "mkdir" started.
+20:42:00,372 INFO - Task "mkdir" finished.
+20:42:00,372 INFO - Task "mkdir" started.
+20:42:00,372 INFO - Task "mkdir" finished.
+20:42:00,372 INFO - Task "mkdir" started.
+20:42:00,372 INFO - Task "mkdir" finished.
+20:42:00,372 INFO - Task "copy" started.
+20:42:00,450 INFO - Task "copy" finished.
+20:42:00,450 INFO - Task "echo" started.
+20:42:00,451 WARN - init target stop 04/25/2017 08:42:00 PM
+20:42:00,451 INFO - Task "echo" finished.
+20:42:00,451 INFO - Task "record" started.
+20:42:00,456 INFO - Task "record" finished.
+20:42:00,456 INFO - Target "init" finished.
+20:42:00,456 INFO - Target "clean" started.
+20:42:00,456 INFO - Task "delete" started.
+20:42:00,472 INFO - Task "delete" finished.
+20:42:00,472 INFO - Target "clean" finished.
+20:42:00,472 INFO - Target "copy" started.
+20:42:00,472 INFO - Task "copy" started.
+20:42:00,472 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:42:00,488 INFO - Task "copy" finished.
+20:42:00,488 INFO - Target "copy" finished.
+20:42:00,488 INFO - Target "unzip" started.
+20:42:00,488 INFO - Task "unzip" started.
+20:42:00,488 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:42:00,503 INFO - Task "unzip" finished.
+20:42:00,503 INFO - Task "delete" started.
+20:42:00,503 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:42:00,503 INFO - Task "delete" finished.
+20:42:00,503 INFO - Target "unzip" finished.
+20:42:00,503 INFO - Target "zip" started.
+20:42:00,503 INFO - Task "zip" started.
+20:42:00,535 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:42:00,556 INFO - Task "zip" finished.
+20:42:00,556 INFO - Task "copy" started.
+20:42:00,557 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:42:00,557 INFO - Task "copy" finished.
+20:42:00,557 INFO - Target "zip" finished.
+20:42:00,557 INFO - Target "build" started.
+20:42:00,557 INFO - Target "build" finished.
+20:42:00,557 INFO - Target "main" started.
+20:42:00,557 INFO - Target "main" finished.
+20:42:00,557 INFO - Build finished.
+20:43:19,412 INFO - Build started.
+20:43:19,543 INFO - Task "property" started.
+20:43:19,810 INFO - Task "property" finished.
+20:43:19,811 INFO - Task "property" started.
+20:43:19,811 INFO - Task "property" finished.
+20:43:19,811 INFO - Task "property" started.
+20:43:19,811 INFO - Task "property" finished.
+20:43:19,811 INFO - Task "property" started.
+20:43:19,812 INFO - Task "property" finished.
+20:43:19,812 INFO - Task "tstamp" started.
+20:43:19,828 INFO - Task "tstamp" finished.
+20:43:19,828 INFO - Target "init" started.
+20:43:19,828 INFO - Task "record" started.
+20:43:19,844 INFO - Task "record" finished.
+20:43:19,844 INFO - Task "echo" started.
+20:43:19,859 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:19,859 INFO - Task "echo" finished.
+20:43:19,859 INFO - Task "mkdir" started.
+20:43:19,859 INFO - Task "mkdir" finished.
+20:43:19,859 INFO - Task "mkdir" started.
+20:43:19,859 INFO - Task "mkdir" finished.
+20:43:19,859 INFO - Task "mkdir" started.
+20:43:19,859 INFO - Task "mkdir" finished.
+20:43:19,859 INFO - Task "copy" started.
+20:43:19,928 INFO - Task "copy" finished.
+20:43:19,928 INFO - Task "echo" started.
+20:43:19,928 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:19,928 INFO - Task "echo" finished.
+20:43:19,928 INFO - Task "record" started.
+20:43:19,944 INFO - Task "record" finished.
+20:43:19,944 INFO - Target "init" finished.
+20:43:19,944 INFO - Target "clean" started.
+20:43:19,944 INFO - Task "record" started.
+20:43:19,944 INFO - Task "record" finished.
+20:43:19,944 INFO - Task "echo" started.
+20:43:19,944 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:19,944 INFO - Task "echo" finished.
+20:43:19,944 INFO - Task "delete" started.
+20:43:19,960 INFO - Task "delete" finished.
+20:43:19,960 INFO - Task "echo" started.
+20:43:19,960 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:19,960 INFO - Task "echo" finished.
+20:43:19,960 INFO - Task "record" started.
+20:43:19,975 INFO - Task "record" finished.
+20:43:19,975 INFO - Target "clean" finished.
+20:43:19,975 INFO - Target "copy" started.
+20:43:19,975 INFO - Task "record" started.
+20:43:19,975 INFO - Task "record" finished.
+20:43:19,975 INFO - Task "echo" started.
+20:43:19,975 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:19,975 INFO - Task "echo" finished.
+20:43:19,975 INFO - Task "copy" started.
+20:43:19,991 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:43:20,009 INFO - Task "copy" finished.
+20:43:20,009 INFO - Task "echo" started.
+20:43:20,010 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:20,010 INFO - Task "echo" finished.
+20:43:20,010 INFO - Task "record" started.
+20:43:20,013 INFO - Task "record" finished.
+20:43:20,013 INFO - Target "copy" finished.
+20:43:20,013 INFO - Target "unzip" started.
+20:43:20,013 INFO - Task "record" started.
+20:43:20,013 INFO - Task "record" finished.
+20:43:20,013 INFO - Task "echo" started.
+20:43:20,029 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:20,029 INFO - Task "echo" finished.
+20:43:20,029 INFO - Task "unzip" started.
+20:43:20,029 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:43:20,044 INFO - Task "unzip" finished.
+20:43:20,044 INFO - Task "delete" started.
+20:43:20,044 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:43:20,044 INFO - Task "delete" finished.
+20:43:20,044 INFO - Task "echo" started.
+20:43:20,044 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:20,044 INFO - Task "echo" finished.
+20:43:20,044 INFO - Task "record" started.
+20:43:20,060 INFO - Task "record" finished.
+20:43:20,060 INFO - Target "unzip" finished.
+20:43:20,060 INFO - Target "zip" started.
+20:43:20,060 INFO - Task "record" started.
+20:43:20,060 INFO - Task "record" finished.
+20:43:20,060 INFO - Task "echo" started.
+20:43:20,060 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:20,060 INFO - Task "echo" finished.
+20:43:20,060 INFO - Task "zip" started.
+20:43:20,075 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:43:20,091 INFO - Task "zip" finished.
+20:43:20,091 INFO - Task "copy" started.
+20:43:20,091 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:43:20,091 INFO - Task "copy" finished.
+20:43:20,091 INFO - Task "echo" started.
+20:43:20,091 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:20,091 INFO - Task "echo" finished.
+20:43:20,091 INFO - Task "record" started.
+20:43:20,113 INFO - Task "record" finished.
+20:43:20,113 INFO - Target "zip" finished.
+20:43:20,113 INFO - Target "build" started.
+20:43:20,113 INFO - Task "record" started.
+20:43:20,113 INFO - Task "record" finished.
+20:43:20,113 INFO - Task "echo" started.
+20:43:20,113 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:20,113 INFO - Task "echo" finished.
+20:43:20,113 INFO - Task "echo" started.
+20:43:20,113 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:20,113 INFO - Task "echo" finished.
+20:43:20,113 INFO - Task "record" started.
+20:43:20,113 INFO - Task "record" finished.
+20:43:20,113 INFO - Target "build" finished.
+20:43:20,129 INFO - Target "main" started.
+20:43:20,129 INFO - Task "record" started.
+20:43:20,129 INFO - Task "record" finished.
+20:43:20,129 INFO - Task "echo" started.
+20:43:20,129 WARN - init target start 04/25/2017 08:43:19 PM
+20:43:20,129 INFO - Task "echo" finished.
+20:43:20,129 INFO - Task "echo" started.
+20:43:20,129 WARN - init target stop 04/25/2017 08:43:19 PM
+20:43:20,129 INFO - Task "echo" finished.
+20:43:20,129 INFO - Task "record" started.
+20:43:20,129 INFO - Task "record" finished.
+20:43:20,129 INFO - Target "main" finished.
+20:43:20,129 INFO - Build finished.
+20:44:37,606 INFO - Build started.
+20:44:37,727 INFO - Task "property" started.
+20:44:37,975 INFO - Task "property" finished.
+20:44:37,975 INFO - Task "property" started.
+20:44:37,975 INFO - Task "property" finished.
+20:44:37,975 INFO - Task "property" started.
+20:44:37,975 INFO - Task "property" finished.
+20:44:37,975 INFO - Task "property" started.
+20:44:37,975 INFO - Task "property" finished.
+20:44:37,975 INFO - Task "tstamp" started.
+20:44:37,991 INFO - Task "tstamp" finished.
+20:44:37,991 INFO - Target "init" started.
+20:44:37,991 INFO - Task "record" started.
+20:44:38,007 INFO - Task "record" finished.
+20:44:38,007 INFO - Task "echo" started.
+20:44:38,007 WARN - init target start 04/25/2017 08:44:37 PM
+20:44:38,007 INFO - Task "echo" finished.
+20:44:38,007 INFO - Task "mkdir" started.
+20:44:38,007 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\in
+20:44:38,022 INFO - Task "mkdir" finished.
+20:44:38,022 INFO - Task "mkdir" started.
+20:44:38,024 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\out
+20:44:38,024 INFO - Task "mkdir" finished.
+20:44:38,024 INFO - Task "mkdir" started.
+20:44:38,025 INFO - Created dir: F:\projectGit\Ant-Build-Script\ant\temp
+20:44:38,026 INFO - Task "mkdir" finished.
+20:44:38,026 INFO - Task "copy" started.
+20:44:38,107 INFO - Copying 5 files to F:\projectGit\Ant-Build-Script\ant\in
+20:44:38,129 INFO - Task "copy" finished.
+20:44:38,129 INFO - Task "echo" started.
+20:44:38,129 WARN - init target stop 04/25/2017 08:44:37 PM
+20:44:38,129 INFO - Task "echo" finished.
+20:44:38,129 INFO - Task "record" started.
+20:44:38,129 INFO - Task "record" finished.
+20:44:38,129 INFO - Target "init" finished.
+20:44:38,129 INFO - Target "clean" started.
+20:44:38,129 INFO - Task "record" started.
+20:44:38,129 INFO - Task "record" finished.
+20:44:38,129 INFO - Task "echo" started.
+20:44:38,129 WARN - clean target start 04/25/2017 08:44:37 PM
+20:44:38,129 INFO - Task "echo" finished.
+20:44:38,129 INFO - Task "delete" started.
+20:44:38,144 INFO - Task "delete" finished.
+20:44:38,144 INFO - Task "echo" started.
+20:44:38,144 WARN - clean target stop 04/25/2017 08:44:37 PM
+20:44:38,144 INFO - Task "echo" finished.
+20:44:38,144 INFO - Task "record" started.
+20:44:38,160 INFO - Task "record" finished.
+20:44:38,160 INFO - Target "clean" finished.
+20:44:38,160 INFO - Target "copy" started.
+20:44:38,160 INFO - Task "record" started.
+20:44:38,160 INFO - Task "record" finished.
+20:44:38,160 INFO - Task "echo" started.
+20:44:38,160 WARN - copy target start 04/25/2017 08:44:37 PM
+20:44:38,160 INFO - Task "echo" finished.
+20:44:38,160 INFO - Task "copy" started.
+20:44:38,160 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:44:38,160 INFO - Task "copy" finished.
+20:44:38,160 INFO - Task "echo" started.
+20:44:38,160 WARN - copy target stop 04/25/2017 08:44:37 PM
+20:44:38,176 INFO - Task "echo" finished.
+20:44:38,176 INFO - Task "record" started.
+20:44:38,176 INFO - Task "record" finished.
+20:44:38,176 INFO - Target "copy" finished.
+20:44:38,176 INFO - Target "unzip" started.
+20:44:38,176 INFO - Task "record" started.
+20:44:38,176 INFO - Task "record" finished.
+20:44:38,176 INFO - Task "echo" started.
+20:44:38,191 WARN - unzip target start 04/25/2017 08:44:37 PM
+20:44:38,191 INFO - Task "echo" finished.
+20:44:38,191 INFO - Task "unzip" started.
+20:44:38,191 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:44:38,223 INFO - Task "unzip" finished.
+20:44:38,223 INFO - Task "delete" started.
+20:44:38,224 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:44:38,225 INFO - Task "delete" finished.
+20:44:38,225 INFO - Task "echo" started.
+20:44:38,226 WARN - unzip target stop 04/25/2017 08:44:37 PM
+20:44:38,226 INFO - Task "echo" finished.
+20:44:38,226 INFO - Task "record" started.
+20:44:38,229 INFO - Task "record" finished.
+20:44:38,229 INFO - Target "unzip" finished.
+20:44:38,229 INFO - Target "zip" started.
+20:44:38,229 INFO - Task "record" started.
+20:44:38,229 INFO - Task "record" finished.
+20:44:38,229 INFO - Task "echo" started.
+20:44:38,229 WARN - zip target start 04/25/2017 08:44:37 PM
+20:44:38,229 INFO - Task "echo" finished.
+20:44:38,229 INFO - Task "zip" started.
+20:44:38,245 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:44:38,260 INFO - Task "zip" finished.
+20:44:38,260 INFO - Task "copy" started.
+20:44:38,260 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:44:38,260 INFO - Task "copy" finished.
+20:44:38,260 INFO - Task "echo" started.
+20:44:38,260 WARN - zip target stop 04/25/2017 08:44:37 PM
+20:44:38,260 INFO - Task "echo" finished.
+20:44:38,260 INFO - Task "record" started.
+20:44:38,276 INFO - Task "record" finished.
+20:44:38,276 INFO - Target "zip" finished.
+20:44:38,276 INFO - Target "build" started.
+20:44:38,276 INFO - Task "record" started.
+20:44:38,276 INFO - Task "record" finished.
+20:44:38,276 INFO - Task "echo" started.
+20:44:38,276 WARN - build target start 04/25/2017 08:44:37 PM
+20:44:38,276 INFO - Task "echo" finished.
+20:44:38,276 INFO - Task "echo" started.
+20:44:38,276 WARN - build target stop 04/25/2017 08:44:37 PM
+20:44:38,276 INFO - Task "echo" finished.
+20:44:38,276 INFO - Task "record" started.
+20:44:38,276 INFO - Task "record" finished.
+20:44:38,276 INFO - Target "build" finished.
+20:44:38,291 INFO - Target "main" started.
+20:44:38,291 INFO - Task "record" started.
+20:44:38,291 INFO - Task "record" finished.
+20:44:38,291 INFO - Task "echo" started.
+20:44:38,291 WARN - main target start 04/25/2017 08:44:37 PM
+20:44:38,291 INFO - Task "echo" finished.
+20:44:38,291 INFO - Task "echo" started.
+20:44:38,291 WARN - main target stop 04/25/2017 08:44:37 PM
+20:44:38,291 INFO - Task "echo" finished.
+20:44:38,291 INFO - Task "record" started.
+20:44:38,291 INFO - Task "record" finished.
+20:44:38,291 INFO - Target "main" finished.
+20:44:38,291 INFO - Build finished.
+20:48:25,884 INFO - Build started.
+20:48:25,984 INFO - Task "property" started.
+20:48:26,238 INFO - Task "property" finished.
+20:48:26,238 INFO - Task "property" started.
+20:48:26,238 INFO - Task "property" finished.
+20:48:26,238 INFO - Task "property" started.
+20:48:26,238 INFO - Task "property" finished.
+20:48:26,238 INFO - Task "property" started.
+20:48:26,238 INFO - Task "property" finished.
+20:48:26,238 INFO - Task "tstamp" started.
+20:48:26,254 INFO - Task "tstamp" finished.
+20:48:26,254 INFO - Target "main" started.
+20:48:26,254 INFO - Task "record" started.
+20:48:26,270 INFO - Task "record" finished.
+20:48:26,270 INFO - Task "echo" started.
+20:48:26,285 WARN - main target start 04/25/2017 08:48:26 PM
+20:48:26,285 INFO - Task "echo" finished.
+20:48:26,285 INFO - Task "antcall" started.
+20:48:26,301 INFO - Task "property" started.
+20:48:26,301 INFO - Task "property" finished.
+20:48:26,301 INFO - Task "property" started.
+20:48:26,301 INFO - Task "property" finished.
+20:48:26,301 INFO - Task "property" started.
+20:48:26,316 INFO - Task "property" finished.
+20:48:26,316 INFO - Task "property" started.
+20:48:26,316 INFO - Task "property" finished.
+20:48:26,316 INFO - Task "tstamp" started.
+20:48:26,316 INFO - Task "tstamp" finished.
+20:48:26,316 INFO - Target "init" started.
+20:48:26,316 INFO - Task "record" started.
+20:48:26,316 INFO - Task "record" finished.
+20:48:26,316 INFO - Task "echo" started.
+20:48:26,316 WARN - init target start 04/25/2017 08:48:26 PM
+20:48:26,316 INFO - Task "echo" finished.
+20:48:26,316 INFO - Task "mkdir" started.
+20:48:26,316 INFO - Task "mkdir" finished.
+20:48:26,316 INFO - Task "mkdir" started.
+20:48:26,316 INFO - Task "mkdir" finished.
+20:48:26,316 INFO - Task "mkdir" started.
+20:48:26,316 INFO - Task "mkdir" finished.
+20:48:26,316 INFO - Task "copy" started.
+20:48:26,385 INFO - Task "copy" finished.
+20:48:26,385 INFO - Task "echo" started.
+20:48:26,385 WARN - init target stop 04/25/2017 08:48:26 PM
+20:48:26,385 INFO - Task "echo" finished.
+20:48:26,385 INFO - Task "record" started.
+20:48:26,385 INFO - Task "record" finished.
+20:48:26,385 INFO - Target "init" finished.
+20:48:26,385 INFO - Task "antcall" finished.
+20:48:26,385 INFO - Task "antcall" started.
+20:48:26,401 INFO - Task "property" started.
+20:48:26,401 INFO - Task "property" finished.
+20:48:26,401 INFO - Task "property" started.
+20:48:26,401 INFO - Task "property" finished.
+20:48:26,401 INFO - Task "property" started.
+20:48:26,401 INFO - Task "property" finished.
+20:48:26,401 INFO - Task "property" started.
+20:48:26,401 INFO - Task "property" finished.
+20:48:26,401 INFO - Task "tstamp" started.
+20:48:26,401 INFO - Task "tstamp" finished.
+20:48:26,401 INFO - Target "clean" started.
+20:48:26,401 INFO - Task "record" started.
+20:48:26,401 INFO - Task "record" finished.
+20:48:26,401 INFO - Task "echo" started.
+20:48:26,401 WARN - clean target start 04/25/2017 08:48:26 PM
+20:48:26,401 INFO - Task "echo" finished.
+20:48:26,401 INFO - Task "delete" started.
+20:48:26,439 INFO - Task "delete" finished.
+20:48:26,439 INFO - Task "echo" started.
+20:48:26,439 WARN - clean target stop 04/25/2017 08:48:26 PM
+20:48:26,439 INFO - Task "echo" finished.
+20:48:26,439 INFO - Task "record" started.
+20:48:26,455 INFO - Task "record" finished.
+20:48:26,455 INFO - Target "clean" finished.
+20:48:26,455 INFO - Target "copy" started.
+20:48:26,455 INFO - Task "record" started.
+20:48:26,455 INFO - Task "record" finished.
+20:48:26,455 INFO - Task "echo" started.
+20:48:26,455 WARN - copy target start 04/25/2017 08:48:26 PM
+20:48:26,455 INFO - Task "echo" finished.
+20:48:26,455 INFO - Task "copy" started.
+20:48:26,455 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:48:26,470 INFO - Task "copy" finished.
+20:48:26,470 INFO - Task "echo" started.
+20:48:26,470 WARN - copy target stop 04/25/2017 08:48:26 PM
+20:48:26,470 INFO - Task "echo" finished.
+20:48:26,470 INFO - Task "record" started.
+20:48:26,486 INFO - Task "record" finished.
+20:48:26,486 INFO - Target "copy" finished.
+20:48:26,486 INFO - Target "unzip" started.
+20:48:26,486 INFO - Task "record" started.
+20:48:26,486 INFO - Task "record" finished.
+20:48:26,486 INFO - Task "echo" started.
+20:48:26,486 WARN - unzip target start 04/25/2017 08:48:26 PM
+20:48:26,486 INFO - Task "echo" finished.
+20:48:26,486 INFO - Task "unzip" started.
+20:48:26,486 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:48:26,501 INFO - Task "unzip" finished.
+20:48:26,501 INFO - Task "delete" started.
+20:48:26,501 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:48:26,501 INFO - Task "delete" finished.
+20:48:26,501 INFO - Task "echo" started.
+20:48:26,501 WARN - unzip target stop 04/25/2017 08:48:26 PM
+20:48:26,501 INFO - Task "echo" finished.
+20:48:26,501 INFO - Task "record" started.
+20:48:26,517 INFO - Task "record" finished.
+20:48:26,517 INFO - Target "unzip" finished.
+20:48:26,517 INFO - Target "zip" started.
+20:48:26,517 INFO - Task "record" started.
+20:48:26,517 INFO - Task "record" finished.
+20:48:26,517 INFO - Task "echo" started.
+20:48:26,517 WARN - zip target start 04/25/2017 08:48:26 PM
+20:48:26,517 INFO - Task "echo" finished.
+20:48:26,517 INFO - Task "zip" started.
+20:48:26,539 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:48:26,539 INFO - Task "zip" finished.
+20:48:26,539 INFO - Task "copy" started.
+20:48:26,539 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:48:26,539 INFO - Task "copy" finished.
+20:48:26,539 INFO - Task "echo" started.
+20:48:26,539 WARN - zip target stop 04/25/2017 08:48:26 PM
+20:48:26,539 INFO - Task "echo" finished.
+20:48:26,539 INFO - Task "record" started.
+20:48:26,555 INFO - Task "record" finished.
+20:48:26,555 INFO - Target "zip" finished.
+20:48:26,555 INFO - Target "build" started.
+20:48:26,555 INFO - Task "record" started.
+20:48:26,555 INFO - Task "record" finished.
+20:48:26,555 INFO - Task "echo" started.
+20:48:26,555 WARN - build target start 04/25/2017 08:48:26 PM
+20:48:26,555 INFO - Task "echo" finished.
+20:48:26,555 INFO - Task "antcall" started.
+20:48:26,570 INFO - Task "property" started.
+20:48:26,570 INFO - Task "property" finished.
+20:48:26,570 INFO - Task "property" started.
+20:48:26,570 INFO - Task "property" finished.
+20:48:26,570 INFO - Task "property" started.
+20:48:26,570 INFO - Task "property" finished.
+20:48:26,570 INFO - Task "property" started.
+20:48:26,570 INFO - Task "property" finished.
+20:48:26,570 INFO - Task "tstamp" started.
+20:48:26,570 INFO - Task "tstamp" finished.
+20:48:26,570 INFO - Target "clean" started.
+20:48:26,570 INFO - Task "record" started.
+20:48:26,570 INFO - Task "record" finished.
+20:48:26,570 INFO - Task "echo" started.
+20:48:26,570 WARN - clean target start 04/25/2017 08:48:26 PM
+20:48:26,570 INFO - Task "echo" finished.
+20:48:26,570 INFO - Task "delete" started.
+20:48:26,586 INFO - Task "delete" finished.
+20:48:26,586 INFO - Task "echo" started.
+20:48:26,586 WARN - clean target stop 04/25/2017 08:48:26 PM
+20:48:26,586 INFO - Task "echo" finished.
+20:48:26,586 INFO - Task "record" started.
+20:48:26,586 INFO - Task "record" finished.
+20:48:26,586 INFO - Target "clean" finished.
+20:48:26,586 INFO - Task "antcall" finished.
+20:48:26,586 INFO - Task "antcall" started.
+20:48:26,602 INFO - Task "property" started.
+20:48:26,602 INFO - Task "property" finished.
+20:48:26,602 INFO - Task "property" started.
+20:48:26,602 INFO - Task "property" finished.
+20:48:26,602 INFO - Task "property" started.
+20:48:26,602 INFO - Task "property" finished.
+20:48:26,602 INFO - Task "property" started.
+20:48:26,602 INFO - Task "property" finished.
+20:48:26,602 INFO - Task "tstamp" started.
+20:48:26,602 INFO - Task "tstamp" finished.
+20:48:26,602 INFO - Target "copy" started.
+20:48:26,602 INFO - Task "record" started.
+20:48:26,602 INFO - Task "record" finished.
+20:48:26,602 INFO - Task "echo" started.
+20:48:26,602 WARN - copy target start 04/25/2017 08:48:26 PM
+20:48:26,602 INFO - Task "echo" finished.
+20:48:26,602 INFO - Task "copy" started.
+20:48:26,617 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:48:26,617 INFO - Task "copy" finished.
+20:48:26,617 INFO - Task "echo" started.
+20:48:26,617 WARN - copy target stop 04/25/2017 08:48:26 PM
+20:48:26,617 INFO - Task "echo" finished.
+20:48:26,617 INFO - Task "record" started.
+20:48:26,636 INFO - Task "record" finished.
+20:48:26,636 INFO - Target "copy" finished.
+20:48:26,637 INFO - Task "antcall" finished.
+20:48:26,637 INFO - Task "antcall" started.
+20:48:26,639 INFO - Task "property" started.
+20:48:26,639 INFO - Task "property" finished.
+20:48:26,639 INFO - Task "property" started.
+20:48:26,639 INFO - Task "property" finished.
+20:48:26,639 INFO - Task "property" started.
+20:48:26,639 INFO - Task "property" finished.
+20:48:26,639 INFO - Task "property" started.
+20:48:26,639 INFO - Task "property" finished.
+20:48:26,639 INFO - Task "tstamp" started.
+20:48:26,639 INFO - Task "tstamp" finished.
+20:48:26,639 INFO - Target "unzip" started.
+20:48:26,639 INFO - Task "record" started.
+20:48:26,639 INFO - Task "record" finished.
+20:48:26,639 INFO - Task "echo" started.
+20:48:26,639 WARN - unzip target start 04/25/2017 08:48:26 PM
+20:48:26,639 INFO - Task "echo" finished.
+20:48:26,639 INFO - Task "unzip" started.
+20:48:26,639 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:48:26,655 INFO - Task "unzip" finished.
+20:48:26,655 INFO - Task "delete" started.
+20:48:26,655 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:48:26,655 INFO - Task "delete" finished.
+20:48:26,655 INFO - Task "echo" started.
+20:48:26,655 WARN - unzip target stop 04/25/2017 08:48:26 PM
+20:48:26,655 INFO - Task "echo" finished.
+20:48:26,655 INFO - Task "record" started.
+20:48:26,655 INFO - Task "record" finished.
+20:48:26,655 INFO - Target "unzip" finished.
+20:48:26,655 INFO - Task "antcall" finished.
+20:48:26,655 INFO - Task "antcall" started.
+20:48:26,671 INFO - Task "property" started.
+20:48:26,671 INFO - Task "property" finished.
+20:48:26,671 INFO - Task "property" started.
+20:48:26,671 INFO - Task "property" finished.
+20:48:26,671 INFO - Task "property" started.
+20:48:26,671 INFO - Task "property" finished.
+20:48:26,671 INFO - Task "property" started.
+20:48:26,671 INFO - Task "property" finished.
+20:48:26,671 INFO - Task "tstamp" started.
+20:48:26,671 INFO - Task "tstamp" finished.
+20:48:26,671 INFO - Target "zip" started.
+20:48:26,671 INFO - Task "record" started.
+20:48:26,671 INFO - Task "record" finished.
+20:48:26,671 INFO - Task "echo" started.
+20:48:26,671 WARN - zip target start 04/25/2017 08:48:26 PM
+20:48:26,671 INFO - Task "echo" finished.
+20:48:26,671 INFO - Task "zip" started.
+20:48:26,671 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:48:26,686 INFO - Task "zip" finished.
+20:48:26,686 INFO - Task "copy" started.
+20:48:26,686 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:48:26,686 INFO - Task "copy" finished.
+20:48:26,686 INFO - Task "echo" started.
+20:48:26,686 WARN - zip target stop 04/25/2017 08:48:26 PM
+20:48:26,686 INFO - Task "echo" finished.
+20:48:26,686 INFO - Task "record" started.
+20:48:26,686 INFO - Task "record" finished.
+20:48:26,686 INFO - Target "zip" finished.
+20:48:26,686 INFO - Task "antcall" finished.
+20:48:26,686 INFO - Task "echo" started.
+20:48:26,702 WARN - build target stop 04/25/2017 08:48:26 PM
+20:48:26,702 INFO - Task "echo" finished.
+20:48:26,702 INFO - Task "record" started.
+20:48:26,702 INFO - Task "record" finished.
+20:48:26,702 INFO - Target "build" finished.
+20:48:26,702 INFO - Task "antcall" finished.
+20:48:26,702 INFO - Task "echo" started.
+20:48:26,702 WARN - main target stop 04/25/2017 08:48:26 PM
+20:48:26,702 INFO - Task "echo" finished.
+20:48:26,702 INFO - Task "record" started.
+20:48:26,702 INFO - Task "record" finished.
+20:48:26,702 INFO - Target "main" finished.
+20:48:26,702 INFO - Build finished.
+20:50:22,708 INFO - Build started.
+20:50:22,861 INFO - Task "property" started.
+20:50:23,131 INFO - Task "property" finished.
+20:50:23,131 INFO - Task "property" started.
+20:50:23,131 INFO - Task "property" finished.
+20:50:23,131 INFO - Task "property" started.
+20:50:23,131 INFO - Task "property" finished.
+20:50:23,131 INFO - Task "property" started.
+20:50:23,131 INFO - Task "property" finished.
+20:50:23,131 INFO - Task "tstamp" started.
+20:50:23,147 INFO - Task "tstamp" finished.
+20:50:23,147 INFO - Target "main" started.
+20:50:23,147 INFO - Task "record" started.
+20:50:23,162 INFO - Task "record" finished.
+20:50:23,162 INFO - Task "echo" started.
+20:50:23,178 WARN - main target start 04/25/2017 08:50:23 PM
+20:50:23,178 INFO - Task "echo" finished.
+20:50:23,178 INFO - Task "antcall" started.
+20:50:23,194 INFO - Task "property" started.
+20:50:23,194 INFO - Task "property" finished.
+20:50:23,194 INFO - Task "property" started.
+20:50:23,194 INFO - Task "property" finished.
+20:50:23,209 INFO - Task "property" started.
+20:50:23,209 INFO - Task "property" finished.
+20:50:23,209 INFO - Task "property" started.
+20:50:23,209 INFO - Task "property" finished.
+20:50:23,209 INFO - Task "tstamp" started.
+20:50:23,209 INFO - Task "tstamp" finished.
+20:50:23,209 INFO - Target "init" started.
+20:50:23,209 INFO - Task "record" started.
+20:50:23,209 INFO - Task "record" finished.
+20:50:23,209 INFO - Task "echo" started.
+20:50:23,209 WARN - init target start 04/25/2017 08:50:23 PM
+20:50:23,209 INFO - Task "echo" finished.
+20:50:23,209 INFO - Task "mkdir" started.
+20:50:23,209 INFO - Task "mkdir" finished.
+20:50:23,209 INFO - Task "mkdir" started.
+20:50:23,209 INFO - Task "mkdir" finished.
+20:50:23,209 INFO - Task "mkdir" started.
+20:50:23,209 INFO - Task "mkdir" finished.
+20:50:23,209 INFO - Task "copy" started.
+20:50:23,268 INFO - Task "copy" finished.
+20:50:23,268 INFO - Task "echo" started.
+20:50:23,268 WARN - init target stop 04/25/2017 08:50:23 PM
+20:50:23,268 INFO - Task "echo" finished.
+20:50:23,268 INFO - Task "record" started.
+20:50:23,287 INFO - Task "record" finished.
+20:50:23,287 INFO - Target "init" finished.
+20:50:23,287 INFO - Task "antcall" finished.
+20:50:23,287 INFO - Task "antcall" started.
+20:50:23,287 INFO - Task "property" started.
+20:50:23,287 INFO - Task "property" finished.
+20:50:23,287 INFO - Task "property" started.
+20:50:23,287 INFO - Task "property" finished.
+20:50:23,287 INFO - Task "property" started.
+20:50:23,287 INFO - Task "property" finished.
+20:50:23,287 INFO - Task "property" started.
+20:50:23,287 INFO - Task "property" finished.
+20:50:23,287 INFO - Task "tstamp" started.
+20:50:23,287 INFO - Task "tstamp" finished.
+20:50:23,287 INFO - Target "clean" started.
+20:50:23,287 INFO - Task "record" started.
+20:50:23,287 INFO - Task "record" finished.
+20:50:23,287 INFO - Task "echo" started.
+20:50:23,308 WARN - clean target start 04/25/2017 08:50:23 PM
+20:50:23,308 INFO - Task "echo" finished.
+20:50:23,308 INFO - Task "delete" started.
+20:50:23,332 INFO - Task "delete" finished.
+20:50:23,332 INFO - Task "echo" started.
+20:50:23,332 WARN - clean target stop 04/25/2017 08:50:23 PM
+20:50:23,332 INFO - Task "echo" finished.
+20:50:23,332 INFO - Task "record" started.
+20:50:23,332 INFO - Task "record" finished.
+20:50:23,332 INFO - Target "clean" finished.
+20:50:23,347 INFO - Target "copy" started.
+20:50:23,347 INFO - Task "record" started.
+20:50:23,347 INFO - Task "record" finished.
+20:50:23,347 INFO - Task "echo" started.
+20:50:23,347 WARN - copy target start 04/25/2017 08:50:23 PM
+20:50:23,347 INFO - Task "echo" finished.
+20:50:23,347 INFO - Task "copy" started.
+20:50:23,347 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:50:23,363 INFO - Task "copy" finished.
+20:50:23,363 INFO - Task "echo" started.
+20:50:23,363 WARN - copy target stop 04/25/2017 08:50:23 PM
+20:50:23,363 INFO - Task "echo" finished.
+20:50:23,363 INFO - Task "record" started.
+20:50:23,378 INFO - Task "record" finished.
+20:50:23,378 INFO - Target "copy" finished.
+20:50:23,378 INFO - Target "unzip" started.
+20:50:23,378 INFO - Task "record" started.
+20:50:23,378 INFO - Task "record" finished.
+20:50:23,378 INFO - Task "echo" started.
+20:50:23,378 WARN - unzip target start 04/25/2017 08:50:23 PM
+20:50:23,378 INFO - Task "echo" finished.
+20:50:23,378 INFO - Task "unzip" started.
+20:50:23,394 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:50:23,394 INFO - Task "unzip" finished.
+20:50:23,394 INFO - Task "delete" started.
+20:50:23,394 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:50:23,394 INFO - Task "delete" finished.
+20:50:23,394 INFO - Task "echo" started.
+20:50:23,410 WARN - unzip target stop 04/25/2017 08:50:23 PM
+20:50:23,410 INFO - Task "echo" finished.
+20:50:23,410 INFO - Task "record" started.
+20:50:23,410 INFO - Task "record" finished.
+20:50:23,410 INFO - Target "unzip" finished.
+20:50:23,410 INFO - Target "zip" started.
+20:50:23,410 INFO - Task "record" started.
+20:50:23,410 INFO - Task "record" finished.
+20:50:23,410 INFO - Task "echo" started.
+20:50:23,410 WARN - zip target start 04/25/2017 08:50:23 PM
+20:50:23,410 INFO - Task "echo" finished.
+20:50:23,410 INFO - Task "zip" started.
+20:50:23,432 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:50:23,447 INFO - Task "zip" finished.
+20:50:23,447 INFO - Task "copy" started.
+20:50:23,447 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:50:23,447 INFO - Task "copy" finished.
+20:50:23,447 INFO - Task "echo" started.
+20:50:23,447 WARN - zip target stop 04/25/2017 08:50:23 PM
+20:50:23,447 INFO - Task "echo" finished.
+20:50:23,447 INFO - Task "record" started.
+20:50:23,463 INFO - Task "record" finished.
+20:50:23,463 INFO - Target "zip" finished.
+20:50:23,463 INFO - Target "build" started.
+20:50:23,463 INFO - Task "record" started.
+20:50:23,463 INFO - Task "record" finished.
+20:50:23,463 INFO - Task "echo" started.
+20:50:23,463 WARN - build target start 04/25/2017 08:50:23 PM
+20:50:23,463 INFO - Task "echo" finished.
+20:50:23,463 INFO - Task "antcall" started.
+20:50:23,479 INFO - Task "property" started.
+20:50:23,479 INFO - Task "property" finished.
+20:50:23,479 INFO - Task "property" started.
+20:50:23,479 INFO - Task "property" finished.
+20:50:23,479 INFO - Task "property" started.
+20:50:23,479 INFO - Task "property" finished.
+20:50:23,479 INFO - Task "property" started.
+20:50:23,479 INFO - Task "property" finished.
+20:50:23,479 INFO - Task "tstamp" started.
+20:50:23,494 INFO - Task "tstamp" finished.
+20:50:23,494 INFO - Target "clean" started.
+20:50:23,494 INFO - Task "record" started.
+20:50:23,494 INFO - Task "record" finished.
+20:50:23,494 INFO - Task "echo" started.
+20:50:23,494 WARN - clean target start 04/25/2017 08:50:23 PM
+20:50:23,494 INFO - Task "echo" finished.
+20:50:23,494 INFO - Task "delete" started.
+20:50:23,494 INFO - Task "delete" finished.
+20:50:23,494 INFO - Task "echo" started.
+20:50:23,494 WARN - clean target stop 04/25/2017 08:50:23 PM
+20:50:23,494 INFO - Task "echo" finished.
+20:50:23,494 INFO - Task "record" started.
+20:50:23,494 INFO - Task "record" finished.
+20:50:23,494 INFO - Target "clean" finished.
+20:50:23,510 INFO - Task "antcall" finished.
+20:50:23,510 INFO - Task "antcall" started.
+20:50:23,526 INFO - Task "property" started.
+20:50:23,528 INFO - Task "property" finished.
+20:50:23,528 INFO - Task "property" started.
+20:50:23,529 INFO - Task "property" finished.
+20:50:23,529 INFO - Task "property" started.
+20:50:23,529 INFO - Task "property" finished.
+20:50:23,529 INFO - Task "property" started.
+20:50:23,529 INFO - Task "property" finished.
+20:50:23,530 INFO - Task "tstamp" started.
+20:50:23,531 INFO - Task "tstamp" finished.
+20:50:23,531 INFO - Target "copy" started.
+20:50:23,531 INFO - Task "record" started.
+20:50:23,532 INFO - Task "record" finished.
+20:50:23,532 INFO - Task "echo" started.
+20:50:23,532 WARN - copy target start 04/25/2017 08:50:23 PM
+20:50:23,532 INFO - Task "echo" finished.
+20:50:23,532 INFO - Task "copy" started.
+20:50:23,532 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:50:23,532 INFO - Task "copy" finished.
+20:50:23,532 INFO - Task "echo" started.
+20:50:23,532 WARN - copy target stop 04/25/2017 08:50:23 PM
+20:50:23,532 INFO - Task "echo" finished.
+20:50:23,532 INFO - Task "record" started.
+20:50:23,548 INFO - Task "record" finished.
+20:50:23,548 INFO - Target "copy" finished.
+20:50:23,548 INFO - Task "antcall" finished.
+20:50:23,548 INFO - Task "antcall" started.
+20:50:23,548 INFO - Task "property" started.
+20:50:23,563 INFO - Task "property" finished.
+20:50:23,563 INFO - Task "property" started.
+20:50:23,563 INFO - Task "property" finished.
+20:50:23,563 INFO - Task "property" started.
+20:50:23,563 INFO - Task "property" finished.
+20:50:23,563 INFO - Task "property" started.
+20:50:23,563 INFO - Task "property" finished.
+20:50:23,563 INFO - Task "tstamp" started.
+20:50:23,563 INFO - Task "tstamp" finished.
+20:50:23,563 INFO - Target "unzip" started.
+20:50:23,563 INFO - Task "record" started.
+20:50:23,563 INFO - Task "record" finished.
+20:50:23,563 INFO - Task "echo" started.
+20:50:23,563 WARN - unzip target start 04/25/2017 08:50:23 PM
+20:50:23,563 INFO - Task "echo" finished.
+20:50:23,563 INFO - Task "unzip" started.
+20:50:23,563 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:50:23,579 INFO - Task "unzip" finished.
+20:50:23,579 INFO - Task "delete" started.
+20:50:23,579 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:50:23,579 INFO - Task "delete" finished.
+20:50:23,579 INFO - Task "echo" started.
+20:50:23,579 WARN - unzip target stop 04/25/2017 08:50:23 PM
+20:50:23,579 INFO - Task "echo" finished.
+20:50:23,579 INFO - Task "record" started.
+20:50:23,579 INFO - Task "record" finished.
+20:50:23,579 INFO - Target "unzip" finished.
+20:50:23,579 INFO - Task "antcall" finished.
+20:50:23,579 INFO - Task "antcall" started.
+20:50:23,595 INFO - Task "property" started.
+20:50:23,595 INFO - Task "property" finished.
+20:50:23,595 INFO - Task "property" started.
+20:50:23,595 INFO - Task "property" finished.
+20:50:23,595 INFO - Task "property" started.
+20:50:23,595 INFO - Task "property" finished.
+20:50:23,595 INFO - Task "property" started.
+20:50:23,595 INFO - Task "property" finished.
+20:50:23,595 INFO - Task "tstamp" started.
+20:50:23,610 INFO - Task "tstamp" finished.
+20:50:23,610 INFO - Target "zip" started.
+20:50:23,610 INFO - Task "record" started.
+20:50:23,610 INFO - Task "record" finished.
+20:50:23,610 INFO - Task "echo" started.
+20:50:23,610 WARN - zip target start 04/25/2017 08:50:23 PM
+20:50:23,610 INFO - Task "echo" finished.
+20:50:23,610 INFO - Task "zip" started.
+20:50:23,610 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:50:23,610 INFO - Task "zip" finished.
+20:50:23,610 INFO - Task "copy" started.
+20:50:23,610 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:50:23,610 INFO - Task "copy" finished.
+20:50:23,610 INFO - Task "echo" started.
+20:50:23,610 WARN - zip target stop 04/25/2017 08:50:23 PM
+20:50:23,626 INFO - Task "echo" finished.
+20:50:23,626 INFO - Task "record" started.
+20:50:23,632 INFO - Task "record" finished.
+20:50:23,632 INFO - Target "zip" finished.
+20:50:23,632 INFO - Task "antcall" finished.
+20:50:23,632 INFO - Task "echo" started.
+20:50:23,632 WARN - build target stop 04/25/2017 08:50:23 PM
+20:50:23,632 INFO - Task "echo" finished.
+20:50:23,632 INFO - Task "record" started.
+20:50:23,632 INFO - Task "record" finished.
+20:50:23,632 INFO - Target "build" finished.
+20:50:23,632 INFO - Task "antcall" finished.
+20:50:23,632 INFO - Task "echo" started.
+20:50:23,632 WARN - main target stop 04/25/2017 08:50:23 PM
+20:50:23,632 INFO - Task "echo" finished.
+20:50:23,632 INFO - Task "record" started.
+20:50:23,632 INFO - Task "record" finished.
+20:50:23,632 INFO - Target "main" finished.
+20:50:23,632 INFO - Build finished.
+20:51:33,030 INFO - Build started.
+20:51:33,146 INFO - Task "property" started.
+20:51:33,442 INFO - Task "property" finished.
+20:51:33,442 INFO - Task "property" started.
+20:51:33,442 INFO - Task "property" finished.
+20:51:33,442 INFO - Task "property" started.
+20:51:33,442 INFO - Task "property" finished.
+20:51:33,443 INFO - Task "property" started.
+20:51:33,443 INFO - Task "property" finished.
+20:51:33,443 INFO - Task "tstamp" started.
+20:51:33,464 INFO - Task "tstamp" finished.
+20:51:33,468 INFO - Target "main" started.
+20:51:33,468 INFO - Task "record" started.
+20:51:33,473 INFO - Task "record" finished.
+20:51:33,473 INFO - Task "echo" started.
+20:51:33,488 WARN - main target start 04/25/2017 08:51:33 PM
+20:51:33,488 INFO - Task "echo" finished.
+20:51:33,488 INFO - Task "antcall" started.
+20:51:33,516 INFO - Task "property" started.
+20:51:33,516 INFO - Task "property" finished.
+20:51:33,516 INFO - Task "property" started.
+20:51:33,517 INFO - Task "property" finished.
+20:51:33,517 INFO - Task "property" started.
+20:51:33,517 INFO - Task "property" finished.
+20:51:33,517 INFO - Task "property" started.
+20:51:33,521 INFO - Task "property" finished.
+20:51:33,522 INFO - Task "tstamp" started.
+20:51:33,524 INFO - Task "tstamp" finished.
+20:51:33,528 INFO - Target "init" started.
+20:51:33,529 INFO - Task "record" started.
+20:51:33,529 INFO - Task "record" finished.
+20:51:33,529 INFO - Task "echo" started.
+20:51:33,530 WARN - init target start 04/25/2017 08:51:33 PM
+20:51:33,530 INFO - Task "echo" finished.
+20:51:33,530 INFO - Task "mkdir" started.
+20:51:33,532 INFO - Task "mkdir" finished.
+20:51:33,532 INFO - Task "mkdir" started.
+20:51:33,532 INFO - Task "mkdir" finished.
+20:51:33,533 INFO - Task "mkdir" started.
+20:51:33,534 INFO - Task "mkdir" finished.
+20:51:33,534 INFO - Task "copy" started.
+20:51:33,595 INFO - Task "copy" finished.
+20:51:33,595 INFO - Task "echo" started.
+20:51:33,595 WARN - init target stop 04/25/2017 08:51:33 PM
+20:51:33,595 INFO - Task "echo" finished.
+20:51:33,595 INFO - Task "record" started.
+20:51:33,595 INFO - Task "record" finished.
+20:51:33,595 INFO - Target "init" finished.
+20:51:33,595 INFO - Task "antcall" finished.
+20:51:33,595 INFO - Task "antcall" started.
+20:51:33,611 INFO - Task "property" started.
+20:51:33,611 INFO - Task "property" finished.
+20:51:33,611 INFO - Task "property" started.
+20:51:33,611 INFO - Task "property" finished.
+20:51:33,611 INFO - Task "property" started.
+20:51:33,611 INFO - Task "property" finished.
+20:51:33,611 INFO - Task "property" started.
+20:51:33,611 INFO - Task "property" finished.
+20:51:33,611 INFO - Task "tstamp" started.
+20:51:33,611 INFO - Task "tstamp" finished.
+20:51:33,611 INFO - Target "build" started.
+20:51:33,611 INFO - Task "record" started.
+20:51:33,611 INFO - Task "record" finished.
+20:51:33,611 INFO - Task "echo" started.
+20:51:33,626 WARN - build target start 04/25/2017 08:51:33 PM
+20:51:33,626 INFO - Task "echo" finished.
+20:51:33,626 INFO - Task "antcall" started.
+20:51:33,649 INFO - Task "property" started.
+20:51:33,649 INFO - Task "property" finished.
+20:51:33,649 INFO - Task "property" started.
+20:51:33,649 INFO - Task "property" finished.
+20:51:33,649 INFO - Task "property" started.
+20:51:33,649 INFO - Task "property" finished.
+20:51:33,649 INFO - Task "property" started.
+20:51:33,649 INFO - Task "property" finished.
+20:51:33,649 INFO - Task "tstamp" started.
+20:51:33,649 INFO - Task "tstamp" finished.
+20:51:33,649 INFO - Target "clean" started.
+20:51:33,649 INFO - Task "record" started.
+20:51:33,649 INFO - Task "record" finished.
+20:51:33,649 INFO - Task "echo" started.
+20:51:33,649 WARN - clean target start 04/25/2017 08:51:33 PM
+20:51:33,649 INFO - Task "echo" finished.
+20:51:33,649 INFO - Task "delete" started.
+20:51:33,680 INFO - Task "delete" finished.
+20:51:33,680 INFO - Task "echo" started.
+20:51:33,680 WARN - clean target stop 04/25/2017 08:51:33 PM
+20:51:33,680 INFO - Task "echo" finished.
+20:51:33,680 INFO - Task "record" started.
+20:51:33,695 INFO - Task "record" finished.
+20:51:33,695 INFO - Target "clean" finished.
+20:51:33,695 INFO - Task "antcall" finished.
+20:51:33,695 INFO - Task "antcall" started.
+20:51:33,711 INFO - Task "property" started.
+20:51:33,711 INFO - Task "property" finished.
+20:51:33,711 INFO - Task "property" started.
+20:51:33,711 INFO - Task "property" finished.
+20:51:33,711 INFO - Task "property" started.
+20:51:33,711 INFO - Task "property" finished.
+20:51:33,711 INFO - Task "property" started.
+20:51:33,711 INFO - Task "property" finished.
+20:51:33,711 INFO - Task "tstamp" started.
+20:51:33,711 INFO - Task "tstamp" finished.
+20:51:33,711 INFO - Target "copy" started.
+20:51:33,711 INFO - Task "record" started.
+20:51:33,711 INFO - Task "record" finished.
+20:51:33,711 INFO - Task "echo" started.
+20:51:33,711 WARN - copy target start 04/25/2017 08:51:33 PM
+20:51:33,711 INFO - Task "echo" finished.
+20:51:33,711 INFO - Task "copy" started.
+20:51:33,727 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:51:33,746 INFO - Task "copy" finished.
+20:51:33,746 INFO - Task "echo" started.
+20:51:33,747 WARN - copy target stop 04/25/2017 08:51:33 PM
+20:51:33,747 INFO - Task "echo" finished.
+20:51:33,747 INFO - Task "record" started.
+20:51:33,749 INFO - Task "record" finished.
+20:51:33,749 INFO - Target "copy" finished.
+20:51:33,749 INFO - Task "antcall" finished.
+20:51:33,749 INFO - Task "antcall" started.
+20:51:33,749 INFO - Task "property" started.
+20:51:33,749 INFO - Task "property" finished.
+20:51:33,749 INFO - Task "property" started.
+20:51:33,749 INFO - Task "property" finished.
+20:51:33,749 INFO - Task "property" started.
+20:51:33,749 INFO - Task "property" finished.
+20:51:33,749 INFO - Task "property" started.
+20:51:33,749 INFO - Task "property" finished.
+20:51:33,749 INFO - Task "tstamp" started.
+20:51:33,764 INFO - Task "tstamp" finished.
+20:51:33,764 INFO - Target "unzip" started.
+20:51:33,764 INFO - Task "record" started.
+20:51:33,764 INFO - Task "record" finished.
+20:51:33,764 INFO - Task "echo" started.
+20:51:33,764 WARN - unzip target start 04/25/2017 08:51:33 PM
+20:51:33,764 INFO - Task "echo" finished.
+20:51:33,764 INFO - Task "unzip" started.
+20:51:33,780 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:51:33,780 INFO - Task "unzip" finished.
+20:51:33,780 INFO - Task "delete" started.
+20:51:33,780 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:51:33,780 INFO - Task "delete" finished.
+20:51:33,780 INFO - Task "echo" started.
+20:51:33,796 WARN - unzip target stop 04/25/2017 08:51:33 PM
+20:51:33,796 INFO - Task "echo" finished.
+20:51:33,796 INFO - Task "record" started.
+20:51:33,811 INFO - Task "record" finished.
+20:51:33,811 INFO - Target "unzip" finished.
+20:51:33,811 INFO - Task "antcall" finished.
+20:51:33,811 INFO - Task "antcall" started.
+20:51:33,827 INFO - Task "property" started.
+20:51:33,827 INFO - Task "property" finished.
+20:51:33,827 INFO - Task "property" started.
+20:51:33,827 INFO - Task "property" finished.
+20:51:33,827 INFO - Task "property" started.
+20:51:33,827 INFO - Task "property" finished.
+20:51:33,827 INFO - Task "property" started.
+20:51:33,827 INFO - Task "property" finished.
+20:51:33,827 INFO - Task "tstamp" started.
+20:51:33,827 INFO - Task "tstamp" finished.
+20:51:33,847 INFO - Target "zip" started.
+20:51:33,847 INFO - Task "record" started.
+20:51:33,848 INFO - Task "record" finished.
+20:51:33,848 INFO - Task "echo" started.
+20:51:33,849 WARN - zip target start 04/25/2017 08:51:33 PM
+20:51:33,849 INFO - Task "echo" finished.
+20:51:33,849 INFO - Task "zip" started.
+20:51:33,849 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:51:33,865 INFO - Task "zip" finished.
+20:51:33,865 INFO - Task "copy" started.
+20:51:33,865 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:51:33,865 INFO - Task "copy" finished.
+20:51:33,865 INFO - Task "echo" started.
+20:51:33,865 WARN - zip target stop 04/25/2017 08:51:33 PM
+20:51:33,865 INFO - Task "echo" finished.
+20:51:33,865 INFO - Task "record" started.
+20:51:33,880 INFO - Task "record" finished.
+20:51:33,880 INFO - Target "zip" finished.
+20:51:33,880 INFO - Task "antcall" finished.
+20:51:33,880 INFO - Task "echo" started.
+20:51:33,880 WARN - build target stop 04/25/2017 08:51:33 PM
+20:51:33,880 INFO - Task "echo" finished.
+20:51:33,880 INFO - Task "record" started.
+20:51:33,880 INFO - Task "record" finished.
+20:51:33,880 INFO - Target "build" finished.
+20:51:33,880 INFO - Task "antcall" finished.
+20:51:33,880 INFO - Task "echo" started.
+20:51:33,880 WARN - main target stop 04/25/2017 08:51:33 PM
+20:51:33,880 INFO - Task "echo" finished.
+20:51:33,880 INFO - Task "record" started.
+20:51:33,880 INFO - Task "record" finished.
+20:51:33,880 INFO - Target "main" finished.
+20:51:33,880 INFO - Build finished.
+20:54:35,861 INFO - Build started.
+20:54:35,976 INFO - Task "property" started.
+20:54:36,214 INFO - Task "property" finished.
+20:54:36,214 INFO - Task "property" started.
+20:54:36,230 INFO - Task "property" finished.
+20:54:36,230 INFO - Task "property" started.
+20:54:36,230 INFO - Task "property" finished.
+20:54:36,230 INFO - Task "property" started.
+20:54:36,230 INFO - Task "property" finished.
+20:54:36,230 INFO - Task "tstamp" started.
+20:54:36,246 INFO - Task "tstamp" finished.
+20:54:36,246 INFO - Target "main" started.
+20:54:36,246 INFO - Task "record" started.
+20:54:36,246 INFO - Task "record" finished.
+20:54:36,246 INFO - Task "echo" started.
+20:54:36,262 WARN - main target start 04/25/2017 08:54:36 PM
+20:54:36,262 INFO - Task "echo" finished.
+20:54:36,262 INFO - Task "antcall" started.
+20:54:36,293 INFO - Task "property" started.
+20:54:36,293 INFO - Task "property" finished.
+20:54:36,293 INFO - Task "property" started.
+20:54:36,293 INFO - Task "property" finished.
+20:54:36,293 INFO - Task "property" started.
+20:54:36,293 INFO - Task "property" finished.
+20:54:36,293 INFO - Task "property" started.
+20:54:36,293 INFO - Task "property" finished.
+20:54:36,293 INFO - Task "tstamp" started.
+20:54:36,293 INFO - Task "tstamp" finished.
+20:54:36,293 INFO - Target "init" started.
+20:54:36,309 INFO - Task "echo" started.
+20:54:36,309 WARN - init target start 04/25/2017 08:54:36 PM
+20:54:36,309 INFO - Task "echo" finished.
+20:54:36,310 INFO - Task "mkdir" started.
+20:54:36,311 INFO - Task "mkdir" finished.
+20:54:36,311 INFO - Task "mkdir" started.
+20:54:36,312 INFO - Task "mkdir" finished.
+20:54:36,312 INFO - Task "mkdir" started.
+20:54:36,313 INFO - Task "mkdir" finished.
+20:54:36,313 INFO - Task "copy" started.
+20:54:36,362 INFO - Task "copy" finished.
+20:54:36,362 INFO - Task "echo" started.
+20:54:36,362 WARN - init target stop 04/25/2017 08:54:36 PM
+20:54:36,362 INFO - Task "echo" finished.
+20:54:36,362 INFO - Target "init" finished.
+20:54:36,362 INFO - Task "antcall" finished.
+20:54:36,362 INFO - Task "antcall" started.
+20:54:36,378 INFO - Task "property" started.
+20:54:36,378 INFO - Task "property" finished.
+20:54:36,378 INFO - Task "property" started.
+20:54:36,378 INFO - Task "property" finished.
+20:54:36,378 INFO - Task "property" started.
+20:54:36,378 INFO - Task "property" finished.
+20:54:36,378 INFO - Task "property" started.
+20:54:36,378 INFO - Task "property" finished.
+20:54:36,378 INFO - Task "tstamp" started.
+20:54:36,393 INFO - Task "tstamp" finished.
+20:54:36,393 INFO - Target "build" started.
+20:54:36,393 INFO - Task "echo" started.
+20:54:36,393 WARN - build target start 04/25/2017 08:54:36 PM
+20:54:36,393 INFO - Task "echo" finished.
+20:54:36,393 INFO - Task "antcall" started.
+20:54:36,415 INFO - Task "property" started.
+20:54:36,415 INFO - Task "property" finished.
+20:54:36,415 INFO - Task "property" started.
+20:54:36,415 INFO - Task "property" finished.
+20:54:36,415 INFO - Task "property" started.
+20:54:36,415 INFO - Task "property" finished.
+20:54:36,415 INFO - Task "property" started.
+20:54:36,415 INFO - Task "property" finished.
+20:54:36,415 INFO - Task "tstamp" started.
+20:54:36,415 INFO - Task "tstamp" finished.
+20:54:36,415 INFO - Target "clean" started.
+20:54:36,415 INFO - Task "echo" started.
+20:54:36,415 WARN - clean target start 04/25/2017 08:54:36 PM
+20:54:36,415 INFO - Task "echo" finished.
+20:54:36,415 INFO - Task "delete" started.
+20:54:36,431 INFO - Task "delete" finished.
+20:54:36,431 INFO - Task "echo" started.
+20:54:36,431 WARN - clean target stop 04/25/2017 08:54:36 PM
+20:54:36,431 INFO - Task "echo" finished.
+20:54:36,431 INFO - Target "clean" finished.
+20:54:36,431 INFO - Task "antcall" finished.
+20:54:36,431 INFO - Task "antcall" started.
+20:54:36,462 INFO - Task "property" started.
+20:54:36,462 INFO - Task "property" finished.
+20:54:36,462 INFO - Task "property" started.
+20:54:36,462 INFO - Task "property" finished.
+20:54:36,462 INFO - Task "property" started.
+20:54:36,462 INFO - Task "property" finished.
+20:54:36,462 INFO - Task "property" started.
+20:54:36,462 INFO - Task "property" finished.
+20:54:36,462 INFO - Task "tstamp" started.
+20:54:36,462 INFO - Task "tstamp" finished.
+20:54:36,462 INFO - Target "copy" started.
+20:54:36,462 INFO - Task "echo" started.
+20:54:36,462 WARN - copy target start 04/25/2017 08:54:36 PM
+20:54:36,462 INFO - Task "echo" finished.
+20:54:36,462 INFO - Task "copy" started.
+20:54:36,478 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:54:36,493 INFO - Task "copy" finished.
+20:54:36,493 INFO - Task "echo" started.
+20:54:36,493 WARN - copy target stop 04/25/2017 08:54:36 PM
+20:54:36,493 INFO - Task "echo" finished.
+20:54:36,493 INFO - Target "copy" finished.
+20:54:36,493 INFO - Task "antcall" finished.
+20:54:36,493 INFO - Task "antcall" started.
+20:54:36,493 INFO - Task "property" started.
+20:54:36,493 INFO - Task "property" finished.
+20:54:36,493 INFO - Task "property" started.
+20:54:36,493 INFO - Task "property" finished.
+20:54:36,493 INFO - Task "property" started.
+20:54:36,493 INFO - Task "property" finished.
+20:54:36,493 INFO - Task "property" started.
+20:54:36,493 INFO - Task "property" finished.
+20:54:36,493 INFO - Task "tstamp" started.
+20:54:36,516 INFO - Task "tstamp" finished.
+20:54:36,516 INFO - Target "unzip" started.
+20:54:36,516 INFO - Task "echo" started.
+20:54:36,516 WARN - unzip target start 04/25/2017 08:54:36 PM
+20:54:36,516 INFO - Task "echo" finished.
+20:54:36,516 INFO - Task "unzip" started.
+20:54:36,516 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:54:36,531 INFO - Task "unzip" finished.
+20:54:36,531 INFO - Task "delete" started.
+20:54:36,531 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:54:36,531 INFO - Task "delete" finished.
+20:54:36,531 INFO - Task "echo" started.
+20:54:36,531 WARN - unzip target stop 04/25/2017 08:54:36 PM
+20:54:36,531 INFO - Task "echo" finished.
+20:54:36,531 INFO - Target "unzip" finished.
+20:54:36,531 INFO - Task "antcall" finished.
+20:54:36,531 INFO - Task "antcall" started.
+20:54:36,547 INFO - Task "property" started.
+20:54:36,547 INFO - Task "property" finished.
+20:54:36,547 INFO - Task "property" started.
+20:54:36,547 INFO - Task "property" finished.
+20:54:36,547 INFO - Task "property" started.
+20:54:36,547 INFO - Task "property" finished.
+20:54:36,547 INFO - Task "property" started.
+20:54:36,547 INFO - Task "property" finished.
+20:54:36,547 INFO - Task "tstamp" started.
+20:54:36,547 INFO - Task "tstamp" finished.
+20:54:36,547 INFO - Target "zip" started.
+20:54:36,547 INFO - Task "echo" started.
+20:54:36,547 WARN - zip target start 04/25/2017 08:54:36 PM
+20:54:36,547 INFO - Task "echo" finished.
+20:54:36,547 INFO - Task "zip" started.
+20:54:36,562 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:54:36,578 INFO - Task "zip" finished.
+20:54:36,578 INFO - Task "copy" started.
+20:54:36,578 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:54:36,578 INFO - Task "copy" finished.
+20:54:36,578 INFO - Task "echo" started.
+20:54:36,578 WARN - zip target stop 04/25/2017 08:54:36 PM
+20:54:36,578 INFO - Task "echo" finished.
+20:54:36,578 INFO - Target "zip" finished.
+20:54:36,578 INFO - Task "antcall" finished.
+20:54:36,578 INFO - Task "echo" started.
+20:54:36,594 WARN - build target stop 04/25/2017 08:54:36 PM
+20:54:36,594 INFO - Task "echo" finished.
+20:54:36,594 INFO - Target "build" finished.
+20:54:36,594 INFO - Task "antcall" finished.
+20:54:36,594 INFO - Task "echo" started.
+20:54:36,594 WARN - main target stop 04/25/2017 08:54:36 PM
+20:54:36,594 INFO - Task "echo" finished.
+20:54:36,594 INFO - Task "record" started.
+20:54:36,594 INFO - Task "record" finished.
+20:54:36,594 INFO - Target "main" finished.
+20:54:36,594 INFO - Build finished.
+20:55:37,519 INFO - Build started.
+20:55:37,635 INFO - Task "property" started.
+20:55:37,867 INFO - Task "property" finished.
+20:55:37,867 INFO - Task "property" started.
+20:55:37,867 INFO - Task "property" finished.
+20:55:37,867 INFO - Task "property" started.
+20:55:37,867 INFO - Task "property" finished.
+20:55:37,867 INFO - Task "property" started.
+20:55:37,867 INFO - Task "property" finished.
+20:55:37,867 INFO - Task "tstamp" started.
+20:55:37,889 INFO - Task "tstamp" finished.
+20:55:37,889 INFO - Target "main" started.
+20:55:37,889 INFO - Task "record" started.
+20:55:37,905 INFO - Task "record" finished.
+20:55:37,905 INFO - Task "echo" started.
+20:55:37,905 WARN - main target start 04/25/2017 08:55:37 PM
+20:55:37,905 INFO - Task "echo" finished.
+20:55:37,905 INFO - Task "antcall" started.
+20:55:37,936 INFO - Task "property" started.
+20:55:37,936 INFO - Task "property" finished.
+20:55:37,936 INFO - Task "property" started.
+20:55:37,936 INFO - Task "property" finished.
+20:55:37,936 INFO - Task "property" started.
+20:55:37,936 INFO - Task "property" finished.
+20:55:37,936 INFO - Task "property" started.
+20:55:37,936 INFO - Task "property" finished.
+20:55:37,936 INFO - Task "tstamp" started.
+20:55:37,936 INFO - Task "tstamp" finished.
+20:55:37,936 INFO - Target "init" started.
+20:55:37,936 INFO - Task "echo" started.
+20:55:37,951 WARN - init target start 04/25/2017 08:55:37 PM
+20:55:37,951 INFO - Task "echo" finished.
+20:55:37,951 INFO - Task "mkdir" started.
+20:55:37,951 INFO - Task "mkdir" finished.
+20:55:37,951 INFO - Task "mkdir" started.
+20:55:37,951 INFO - Task "mkdir" finished.
+20:55:37,951 INFO - Task "mkdir" started.
+20:55:37,951 INFO - Task "mkdir" finished.
+20:55:37,951 INFO - Task "copy" started.
+20:55:38,005 INFO - Task "copy" finished.
+20:55:38,005 INFO - Task "echo" started.
+20:55:38,005 WARN - init target stop 04/25/2017 08:55:37 PM
+20:55:38,005 INFO - Task "echo" finished.
+20:55:38,005 INFO - Target "init" finished.
+20:55:38,005 INFO - Task "antcall" finished.
+20:55:38,005 INFO - Task "antcall" started.
+20:55:38,020 INFO - Task "property" started.
+20:55:38,020 INFO - Task "property" finished.
+20:55:38,020 INFO - Task "property" started.
+20:55:38,020 INFO - Task "property" finished.
+20:55:38,020 INFO - Task "property" started.
+20:55:38,020 INFO - Task "property" finished.
+20:55:38,020 INFO - Task "property" started.
+20:55:38,020 INFO - Task "property" finished.
+20:55:38,020 INFO - Task "tstamp" started.
+20:55:38,020 INFO - Task "tstamp" finished.
+20:55:38,020 INFO - Target "build" started.
+20:55:38,020 INFO - Task "echo" started.
+20:55:38,020 WARN - build target start 04/25/2017 08:55:37 PM
+20:55:38,020 INFO - Task "echo" finished.
+20:55:38,020 INFO - Task "antcall" started.
+20:55:38,036 INFO - Task "property" started.
+20:55:38,036 INFO - Task "property" finished.
+20:55:38,052 INFO - Task "property" started.
+20:55:38,052 INFO - Task "property" finished.
+20:55:38,052 INFO - Task "property" started.
+20:55:38,052 INFO - Task "property" finished.
+20:55:38,052 INFO - Task "property" started.
+20:55:38,052 INFO - Task "property" finished.
+20:55:38,052 INFO - Task "tstamp" started.
+20:55:38,052 INFO - Task "tstamp" finished.
+20:55:38,052 INFO - Target "clean" started.
+20:55:38,052 INFO - Task "echo" started.
+20:55:38,052 WARN - clean target start 04/25/2017 08:55:37 PM
+20:55:38,052 INFO - Task "echo" finished.
+20:55:38,052 INFO - Task "delete" started.
+20:55:38,067 INFO - Task "delete" finished.
+20:55:38,067 INFO - Task "echo" started.
+20:55:38,067 WARN - clean target stop 04/25/2017 08:55:37 PM
+20:55:38,067 INFO - Task "echo" finished.
+20:55:38,067 INFO - Target "clean" finished.
+20:55:38,067 INFO - Task "antcall" finished.
+20:55:38,067 INFO - Task "antcall" started.
+20:55:38,089 INFO - Task "property" started.
+20:55:38,089 INFO - Task "property" finished.
+20:55:38,089 INFO - Task "property" started.
+20:55:38,089 INFO - Task "property" finished.
+20:55:38,089 INFO - Task "property" started.
+20:55:38,089 INFO - Task "property" finished.
+20:55:38,089 INFO - Task "property" started.
+20:55:38,089 INFO - Task "property" finished.
+20:55:38,089 INFO - Task "tstamp" started.
+20:55:38,089 INFO - Task "tstamp" finished.
+20:55:38,089 INFO - Target "copy" started.
+20:55:38,089 INFO - Task "echo" started.
+20:55:38,089 WARN - copy target start 04/25/2017 08:55:37 PM
+20:55:38,089 INFO - Task "echo" finished.
+20:55:38,089 INFO - Task "copy" started.
+20:55:38,089 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:55:38,105 INFO - Task "copy" finished.
+20:55:38,105 INFO - Task "echo" started.
+20:55:38,105 WARN - copy target stop 04/25/2017 08:55:37 PM
+20:55:38,105 INFO - Task "echo" finished.
+20:55:38,105 INFO - Target "copy" finished.
+20:55:38,105 INFO - Task "antcall" finished.
+20:55:38,105 INFO - Task "antcall" started.
+20:55:38,121 INFO - Task "property" started.
+20:55:38,121 INFO - Task "property" finished.
+20:55:38,121 INFO - Task "property" started.
+20:55:38,121 INFO - Task "property" finished.
+20:55:38,121 INFO - Task "property" started.
+20:55:38,121 INFO - Task "property" finished.
+20:55:38,121 INFO - Task "property" started.
+20:55:38,121 INFO - Task "property" finished.
+20:55:38,121 INFO - Task "tstamp" started.
+20:55:38,121 INFO - Task "tstamp" finished.
+20:55:38,121 INFO - Target "unzip" started.
+20:55:38,121 INFO - Task "echo" started.
+20:55:38,121 WARN - unzip target start 04/25/2017 08:55:37 PM
+20:55:38,121 INFO - Task "echo" finished.
+20:55:38,121 INFO - Task "unzip" started.
+20:55:38,136 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:55:38,152 INFO - Task "unzip" finished.
+20:55:38,152 INFO - Task "delete" started.
+20:55:38,152 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:55:38,152 INFO - Task "delete" finished.
+20:55:38,152 INFO - Task "echo" started.
+20:55:38,152 WARN - unzip target stop 04/25/2017 08:55:37 PM
+20:55:38,152 INFO - Task "echo" finished.
+20:55:38,152 INFO - Target "unzip" finished.
+20:55:38,152 INFO - Task "antcall" finished.
+20:55:38,152 INFO - Task "antcall" started.
+20:55:38,152 INFO - Task "property" started.
+20:55:38,152 INFO - Task "property" finished.
+20:55:38,152 INFO - Task "property" started.
+20:55:38,152 INFO - Task "property" finished.
+20:55:38,152 INFO - Task "property" started.
+20:55:38,152 INFO - Task "property" finished.
+20:55:38,152 INFO - Task "property" started.
+20:55:38,168 INFO - Task "property" finished.
+20:55:38,168 INFO - Task "tstamp" started.
+20:55:38,168 INFO - Task "tstamp" finished.
+20:55:38,168 INFO - Target "zip" started.
+20:55:38,168 INFO - Task "echo" started.
+20:55:38,168 WARN - zip target start 04/25/2017 08:55:37 PM
+20:55:38,168 INFO - Task "echo" finished.
+20:55:38,168 INFO - Task "zip" started.
+20:55:38,189 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:55:38,190 INFO - Task "zip" finished.
+20:55:38,190 INFO - Task "copy" started.
+20:55:38,190 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:55:38,190 INFO - Task "copy" finished.
+20:55:38,190 INFO - Task "echo" started.
+20:55:38,190 WARN - zip target stop 04/25/2017 08:55:37 PM
+20:55:38,190 INFO - Task "echo" finished.
+20:55:38,190 INFO - Target "zip" finished.
+20:55:38,190 INFO - Task "antcall" finished.
+20:55:38,190 INFO - Task "echo" started.
+20:55:38,190 WARN - build target stop 04/25/2017 08:55:37 PM
+20:55:38,190 INFO - Task "echo" finished.
+20:55:38,190 INFO - Target "build" finished.
+20:55:38,190 INFO - Task "antcall" finished.
+20:55:38,190 INFO - Task "echo" started.
+20:55:38,190 WARN - main target stop 04/25/2017 08:55:37 PM
+20:55:38,190 INFO - Task "echo" finished.
+20:55:38,190 INFO - Task "record" started.
+20:55:38,205 INFO - Task "record" finished.
+20:55:38,205 INFO - Target "main" finished.
+20:55:38,205 INFO - Build finished.
+20:55:42,527 INFO - Build started.
+20:55:42,643 INFO - Task "property" started.
+20:55:42,912 INFO - Task "property" finished.
+20:55:42,912 INFO - Task "property" started.
+20:55:42,912 INFO - Task "property" finished.
+20:55:42,912 INFO - Task "property" started.
+20:55:42,912 INFO - Task "property" finished.
+20:55:42,912 INFO - Task "property" started.
+20:55:42,912 INFO - Task "property" finished.
+20:55:42,928 INFO - Task "tstamp" started.
+20:55:42,943 INFO - Task "tstamp" finished.
+20:55:42,943 INFO - Target "main" started.
+20:55:42,943 INFO - Task "record" started.
+20:55:42,943 INFO - Task "record" finished.
+20:55:42,943 INFO - Task "echo" started.
+20:55:42,965 WARN - main target start 04/25/2017 08:55:42 PM
+20:55:42,965 INFO - Task "echo" finished.
+20:55:42,965 INFO - Task "antcall" started.
+20:55:42,997 INFO - Task "property" started.
+20:55:42,997 INFO - Task "property" finished.
+20:55:42,997 INFO - Task "property" started.
+20:55:42,997 INFO - Task "property" finished.
+20:55:42,997 INFO - Task "property" started.
+20:55:42,997 INFO - Task "property" finished.
+20:55:42,997 INFO - Task "property" started.
+20:55:42,997 INFO - Task "property" finished.
+20:55:42,997 INFO - Task "tstamp" started.
+20:55:42,997 INFO - Task "tstamp" finished.
+20:55:42,997 INFO - Target "init" started.
+20:55:42,997 INFO - Task "echo" started.
+20:55:42,997 WARN - init target start 04/25/2017 08:55:42 PM
+20:55:42,997 INFO - Task "echo" finished.
+20:55:42,997 INFO - Task "mkdir" started.
+20:55:42,997 INFO - Task "mkdir" finished.
+20:55:42,997 INFO - Task "mkdir" started.
+20:55:42,997 INFO - Task "mkdir" finished.
+20:55:42,997 INFO - Task "mkdir" started.
+20:55:42,997 INFO - Task "mkdir" finished.
+20:55:42,997 INFO - Task "copy" started.
+20:55:43,064 INFO - Task "copy" finished.
+20:55:43,064 INFO - Task "echo" started.
+20:55:43,065 WARN - init target stop 04/25/2017 08:55:42 PM
+20:55:43,065 INFO - Task "echo" finished.
+20:55:43,065 INFO - Target "init" finished.
+20:55:43,065 INFO - Task "antcall" finished.
+20:55:43,065 INFO - Task "antcall" started.
+20:55:43,066 INFO - Task "property" started.
+20:55:43,066 INFO - Task "property" finished.
+20:55:43,066 INFO - Task "property" started.
+20:55:43,066 INFO - Task "property" finished.
+20:55:43,066 INFO - Task "property" started.
+20:55:43,066 INFO - Task "property" finished.
+20:55:43,066 INFO - Task "property" started.
+20:55:43,066 INFO - Task "property" finished.
+20:55:43,066 INFO - Task "tstamp" started.
+20:55:43,066 INFO - Task "tstamp" finished.
+20:55:43,066 INFO - Target "build" started.
+20:55:43,066 INFO - Task "echo" started.
+20:55:43,066 WARN - build target start 04/25/2017 08:55:42 PM
+20:55:43,066 INFO - Task "echo" finished.
+20:55:43,066 INFO - Task "antcall" started.
+20:55:43,097 INFO - Task "property" started.
+20:55:43,097 INFO - Task "property" finished.
+20:55:43,097 INFO - Task "property" started.
+20:55:43,097 INFO - Task "property" finished.
+20:55:43,097 INFO - Task "property" started.
+20:55:43,097 INFO - Task "property" finished.
+20:55:43,097 INFO - Task "property" started.
+20:55:43,097 INFO - Task "property" finished.
+20:55:43,097 INFO - Task "tstamp" started.
+20:55:43,097 INFO - Task "tstamp" finished.
+20:55:43,097 INFO - Target "clean" started.
+20:55:43,097 INFO - Task "echo" started.
+20:55:43,097 WARN - clean target start 04/25/2017 08:55:42 PM
+20:55:43,097 INFO - Task "echo" finished.
+20:55:43,097 INFO - Task "delete" started.
+20:55:43,128 INFO - Task "delete" finished.
+20:55:43,128 INFO - Task "echo" started.
+20:55:43,128 WARN - clean target stop 04/25/2017 08:55:42 PM
+20:55:43,128 INFO - Task "echo" finished.
+20:55:43,128 INFO - Target "clean" finished.
+20:55:43,128 INFO - Task "antcall" finished.
+20:55:43,128 INFO - Task "antcall" started.
+20:55:43,144 INFO - Task "property" started.
+20:55:43,144 INFO - Task "property" finished.
+20:55:43,144 INFO - Task "property" started.
+20:55:43,144 INFO - Task "property" finished.
+20:55:43,144 INFO - Task "property" started.
+20:55:43,144 INFO - Task "property" finished.
+20:55:43,144 INFO - Task "property" started.
+20:55:43,144 INFO - Task "property" finished.
+20:55:43,144 INFO - Task "tstamp" started.
+20:55:43,144 INFO - Task "tstamp" finished.
+20:55:43,144 INFO - Target "copy" started.
+20:55:43,144 INFO - Task "echo" started.
+20:55:43,144 WARN - copy target start 04/25/2017 08:55:42 PM
+20:55:43,144 INFO - Task "echo" finished.
+20:55:43,144 INFO - Task "copy" started.
+20:55:43,162 INFO - Copying 4 files to F:\projectGit\Ant-Build-Script\ant\temp
+20:55:43,166 INFO - Task "copy" finished.
+20:55:43,166 INFO - Task "echo" started.
+20:55:43,166 WARN - copy target stop 04/25/2017 08:55:42 PM
+20:55:43,166 INFO - Task "echo" finished.
+20:55:43,166 INFO - Target "copy" finished.
+20:55:43,166 INFO - Task "antcall" finished.
+20:55:43,166 INFO - Task "antcall" started.
+20:55:43,182 INFO - Task "property" started.
+20:55:43,182 INFO - Task "property" finished.
+20:55:43,182 INFO - Task "property" started.
+20:55:43,182 INFO - Task "property" finished.
+20:55:43,182 INFO - Task "property" started.
+20:55:43,182 INFO - Task "property" finished.
+20:55:43,182 INFO - Task "property" started.
+20:55:43,182 INFO - Task "property" finished.
+20:55:43,182 INFO - Task "tstamp" started.
+20:55:43,182 INFO - Task "tstamp" finished.
+20:55:43,197 INFO - Target "unzip" started.
+20:55:43,197 INFO - Task "echo" started.
+20:55:43,197 WARN - unzip target start 04/25/2017 08:55:42 PM
+20:55:43,197 INFO - Task "echo" finished.
+20:55:43,197 INFO - Task "unzip" started.
+20:55:43,229 INFO - Expanding: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip into F:\projectGit\Ant-Build-Script\ant\temp
+20:55:43,229 INFO - Task "unzip" finished.
+20:55:43,229 INFO - Task "delete" started.
+20:55:43,229 INFO - Deleting: F:\projectGit\Ant-Build-Script\ant\temp\zipFile.zip
+20:55:43,229 INFO - Task "delete" finished.
+20:55:43,229 INFO - Task "echo" started.
+20:55:43,244 WARN - unzip target stop 04/25/2017 08:55:42 PM
+20:55:43,244 INFO - Task "echo" finished.
+20:55:43,244 INFO - Target "unzip" finished.
+20:55:43,244 INFO - Task "antcall" finished.
+20:55:43,244 INFO - Task "antcall" started.
+20:55:43,266 INFO - Task "property" started.
+20:55:43,266 INFO - Task "property" finished.
+20:55:43,266 INFO - Task "property" started.
+20:55:43,266 INFO - Task "property" finished.
+20:55:43,266 INFO - Task "property" started.
+20:55:43,266 INFO - Task "property" finished.
+20:55:43,266 INFO - Task "property" started.
+20:55:43,266 INFO - Task "property" finished.
+20:55:43,266 INFO - Task "tstamp" started.
+20:55:43,266 INFO - Task "tstamp" finished.
+20:55:43,282 INFO - Target "zip" started.
+20:55:43,282 INFO - Task "echo" started.
+20:55:43,298 WARN - zip target start 04/25/2017 08:55:42 PM
+20:55:43,298 INFO - Task "echo" finished.
+20:55:43,298 INFO - Task "zip" started.
+20:55:43,298 INFO - Building zip: F:\projectGit\Ant-Build-Script\ant\temp\out.zip
+20:55:43,313 INFO - Task "zip" finished.
+20:55:43,313 INFO - Task "copy" started.
+20:55:43,313 INFO - Copying 1 file to F:\projectGit\Ant-Build-Script\ant\out
+20:55:43,313 INFO - Task "copy" finished.
+20:55:43,313 INFO - Task "echo" started.
+20:55:43,329 WARN - zip target stop 04/25/2017 08:55:42 PM
+20:55:43,329 INFO - Task "echo" finished.
+20:55:43,329 INFO - Target "zip" finished.
+20:55:43,329 INFO - Task "antcall" finished.
+20:55:43,329 INFO - Task "echo" started.
+20:55:43,329 WARN - build target stop 04/25/2017 08:55:42 PM
+20:55:43,329 INFO - Task "echo" finished.
+20:55:43,329 INFO - Target "build" finished.
+20:55:43,329 INFO - Task "antcall" finished.
+20:55:43,329 INFO - Task "echo" started.
+20:55:43,329 WARN - main target stop 04/25/2017 08:55:42 PM
+20:55:43,329 INFO - Task "echo" finished.
+20:55:43,329 INFO - Task "record" started.
+20:55:43,329 INFO - Task "record" finished.
+20:55:43,329 INFO - Target "main" finished.
+20:55:43,329 INFO - Build finished.
+20:56:24,063 INFO - Build started.
+20:56:24,163 INFO - Task "property" started.
+20:56:24,426 INFO - Task "property" finished.
+20:56:24,426 INFO - Task "property" started.
+20:56:24,426 INFO - Task "property" finished.
+20:56:24,426 INFO - Task "property" started.
+20:56:24,426 INFO - Task "property" finished.
+20:56:24,426 INFO - Task "property" started.
+20:56:24,426 INFO - Task "property" finished.
+20:56:24,426 INFO - Task "tstamp" started.
+20:56:24,448 INFO - Task "tstamp" finished.
+20:56:24,449 INFO - Target "init" started.
+20:56:24,449 INFO - Task "echo" started.
+20:56:24,464 WARN - init target start 04/25/2017 08:56:24 PM
+20:56:24,464 INFO - Task "echo" finished.
+20:56:24,464 INFO - Task "mkdir" started.
+20:56:24,464 INFO - Task "mkdir" finished.
+20:56:24,464 INFO - Task "mkdir" started.
+20:56:24,464 INFO - Task "mkdir" finished.
+20:56:24,464 INFO - Task "mkdir" started.
+20:56:24,464 INFO - Task "mkdir" finished.
+20:56:24,464 INFO - Task "copy" started.
+20:56:24,527 INFO - Task "copy" finished.
+20:56:24,527 INFO - Task "echo" started.
+20:56:24,542 WARN - init target stop 04/25/2017 08:56:24 PM
+20:56:24,543 INFO - Task "echo" finished.
+20:56:24,543 INFO - Target "init" finished.
+20:56:24,545 INFO - Build finished.

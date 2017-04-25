@@ -3,33 +3,59 @@
     <property name="in.dir" value="in"/>
     <property name="out.dir" value="out"/>
     <property name="temp.dir" value="temp"/>
+    <property name="log.file" location="record.log" />
+
+    <tstamp>
+        <format property="current.time" pattern="MM/dd/yyyy hh:mm:ss aa"/>
+    </tstamp>
 
     <target name="init">
+        <echo message="init target start ${current.time}" />
         <mkdir dir="in" />
         <mkdir dir="out" />
         <mkdir dir="temp" />
         <copy todir="${in.dir}">
             <fileset dir="resources"/>
         </copy>
+        <echo message="init target stop ${current.time}" />
     </target>
 
     <target name="clean">
+        <echo message="clean target start ${current.time}" />
         <delete>
             <fileset dir="${temp.dir}"/>
         </delete>
+        <echo message="clean target stop ${current.time}" />
     </target>
 
-    <target name="build" depends="clean,copy,unzip,zip"/>
+    <target name="build">
+        <echo message="build target start ${current.time}" />
+        <antcall target="clean"/>
+        <antcall target="copy"/>
+        <antcall target="unzip"/>
+        <antcall target="zip"/>
+        <echo message="build target stop ${current.time}" />
+    </target>
 
-    <target name="main" depends="init,build"/>
+    <target name="main">
+        <record action="start" append="false" name="${log.file}" loglevel="verbose"/>
+        <echo message="main target start ${current.time}" />
+        <antcall target="init"/>
+        <antcall target="build"/>
+        <echo message="main target stop ${current.time}" />
+        <record action="stop" append="false" name="${log.file}" loglevel="verbose"/>
+    </target>
 
     <target name="copy">
+        <echo message="copy target start ${current.time}" />
         <copy todir="${temp.dir}">
             <fileset dir="${in.dir}" includes="**/*.xml,**/*.zip,**/*.html,**/*.xhtml"/>
         </copy>
+        <echo message="copy target stop ${current.time}" />
     </target>
 
     <target name="unzip">
+        <echo message="unzip target start ${current.time}" />
         <unzip src="${temp.dir}/zipFile.zip" dest="${temp.dir}" >
             <patternset>
                 <include name="**/*.png"/>
@@ -40,12 +66,13 @@
             <mapper type="flatten"/>
         </unzip>
         <delete file="${temp.dir}/zipFile.zip"/>
+        <echo message="unzip target stop ${current.time}" />
     </target>
-
 
     <target name="zip">
+        <echo message="zip target start ${current.time}" />
         <zip destfile="${temp.dir}/out.zip" basedir="${temp.dir}" includes="**/*.xml,**/*.html,**/*.xhtml"/>
         <copy file="${temp.dir}/out.zip" todir="${out.dir}"/>
+        <echo message="zip target stop ${current.time}" />
     </target>
-
 </project>
